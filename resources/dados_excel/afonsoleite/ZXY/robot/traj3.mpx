@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mpx description="Motion Primitive *custom* XML format" version="1.0">
+    <!--library version information-->
+    <mplibrary version="0.9"/>
+    <!--motion primitives (weighted combination of basis functions)-->
+    <primitives>
+        <!--/////////////////////////-->
+        <primitive uuid="a2701146-3212-4b46-8151-5adf56d702f0" n_basis="25">
+            <!--individual basis function intrinsic parametrization (center and width)-->
+            <basis type="Gaussian">
+                <center>0.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.041667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.083333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.125000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.166667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.208333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.250000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.291667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.333333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.375000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.416667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.458333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.500000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.541667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.583333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.625000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.666667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.708333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.750000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.791667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.833333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.875000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.916667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.958333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>1.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <!--basis function bulk extrinsic parametrization (weights)-->
+            <weights>64250.776228 -99914.037717 -7369.108342 99925.872765 83556.062116 -99841.591204 -98228.346845 83586.318261 98325.919558 -43475.160767 -94948.713430 1352.489799 94815.657861 -14648.662995 -94586.057767 44224.987239 57985.808311 -93099.890592 79222.206731 -6766.829872 -94952.933802 92867.604067 31371.082826 -94854.735207 42573.497910</weights>
+        </primitive>
+        <!--/////////////////////////-->
+        <primitive uuid="0959ea8a-5133-4b55-9b81-cbd5cbb3520e" n_basis="25">
+            <!--individual basis function intrinsic parametrization (center and width)-->
+            <basis type="Gaussian">
+                <center>0.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.041667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.083333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.125000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.166667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.208333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.250000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.291667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.333333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.375000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.416667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.458333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.500000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.541667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.583333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.625000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.666667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.708333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.750000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.791667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.833333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.875000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.916667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.958333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>1.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <!--basis function bulk extrinsic parametrization (weights)-->
+            <weights>64772.970629 -99999.829134 -8701.168190 99664.209543 90589.273431 -99890.171262 -99898.343867 60492.037893 99985.022560 -7073.263400 -99170.385714 -59668.169472 98352.782245 69896.734310 -97065.435045 -72901.624004 95530.549837 67525.580309 -95006.824500 -37345.066466 95058.172823 -4544.895932 -94947.545724 94405.299530 -33843.347997</weights>
+        </primitive>
+        <!--/////////////////////////-->
+        <primitive uuid="649024fb-dd32-4f1a-9b87-1d65b4470bdc" n_basis="25">
+            <!--individual basis function intrinsic parametrization (center and width)-->
+            <basis type="Gaussian">
+                <center>0.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.041667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.083333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.125000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.166667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.208333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.250000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.291667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.333333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.375000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.416667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.458333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.500000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.541667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.583333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.625000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.666667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.708333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.750000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.791667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.833333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.875000</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.916667</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>0.958333</center>
+                <width>0.120000</width>
+            </basis>
+            <basis type="Gaussian">
+                <center>1.000000</center>
+                <width>0.120000</width>
+            </basis>
+            <!--basis function bulk extrinsic parametrization (weights)-->
+            <weights>4507.896488 -37247.890550 90573.646523 -91212.791227 89472.816315 -30808.045614 -82881.959669 94366.600894 43648.060248 -93008.460191 -35358.740772 91802.206613 48925.810267 -93030.004976 -67226.189054 92624.686666 73649.107006 -86418.389461 -78261.594105 82515.019853 47768.798898 -28511.812582 -84395.768006 92113.608017 -29014.089088</weights>
+        </primitive>
+    </primitives>
+    <!--motion skills (weighted & phase-shifted combination of shared primitives)-->
+    <skills>
+        <!--/////////////////////////-->
+        <skill uuid="309f7a40-3f66-4097-af1d-2265f027106c" n_dims="3" n_primitives="3">
+            <primitives>
+                <primitive uuid="a2701146-3212-4b46-8151-5adf56d702f0"/>
+                <primitive uuid="0959ea8a-5133-4b55-9b81-cbd5cbb3520e"/>
+                <primitive uuid="649024fb-dd32-4f1a-9b87-1d65b4470bdc"/>
+            </primitives>
+            <!--primitive mixing weights-->
+            <weights>1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000</weights>
+            <!--primitive mixing delays-->
+            <delays>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</delays>
+        </skill>
+    </skills>
+    <!--perceptual data (sensor references)-->
+    <memories/>
+    <!--control policies (pattern generators)-->
+    <policies>
+        <!--/////////////////////////-->
+        <dmp uuid="e74469e9-d800-40cd-bfd8-b0f158bae6c9" size="3">
+            <!--/////////////////////////-->
+            <skill uuid="309f7a40-3f66-4097-af1d-2265f027106c"/>
+            <commands>
+                <dynamical_system type="DynamicSpringDamper" id="0">
+                    <tau>0.167785</tau>
+                    <damping>25.000000 6.250000</damping>
+                    <goal>
+                        <target>28.209354</target>
+                        <states/>
+                    </goal>
+                </dynamical_system>
+                <dynamical_system type="DynamicSpringDamper" id="1">
+                    <tau>0.167785</tau>
+                    <damping>25.000000 6.250000</damping>
+                    <goal>
+                        <target>58.816063</target>
+                        <states/>
+                    </goal>
+                </dynamical_system>
+                <dynamical_system type="DynamicSpringDamper" id="2">
+                    <tau>0.167785</tau>
+                    <damping>25.000000 6.250000</damping>
+                    <goal>
+                        <target>-13.019934</target>
+                        <states/>
+                    </goal>
+                </dynamical_system>
+            </commands>
+        </dmp>
+    </policies>
+</mpx>

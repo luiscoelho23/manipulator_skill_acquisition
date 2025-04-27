@@ -1,0 +1,85 @@
+---
+
+# enable plotting of regression results *for each dimension* upon convergence
+# requires interaction, should only be enabled while debugging
+# only valid if 'quiet' option is false
+plot: true
+
+# enable 1D regression learning i.e. each dimension/primitive optimized separatly when possible
+# @note soft parameter: requires 1) same number of primitives as data dimensions and 2) no primitive sharing/delaying, ignored otherwise
+#       useful (faster) to disable when learning single primitives p/ dimension (no mixing)
+allow_unidimensional_regression: false
+
+# number of basis per (new) primitive
+# the higher the value, higher dimensionality of the regression problem -> more overhead / slower fitting
+# @note soft parameter: ignored if 1) using any memory learning seed (i.e. source structure is preserved)
+n_basis: 25
+
+# number of primitives to use
+# @note soft parameter: ignored if 1) using any memory learning seed (i.e. source structure is preserved) or 2) not mixing/delaying primitives
+#       otherwise it is overriden to the number of input data dimensions.
+n_primitives: 3
+
+# bounds of the phase variable from start to finish
+phase_bounds: [0,1]
+
+# @todo   add baseline method and initial state configuration
+# @todo   add phase system type
+# @todo   add basis function type
+# ...
+
+baseline_method: LAST
+
+ignore_offset: false
+
+# DMP rollout config
+# defines how test trajectories are constructed
+rollout:
+  # step for system integration (Euler's method)
+  # useful to match input data when possible i.e. 1/freq, but not mandatory
+  integration_timestep: 0.04 #!!!
+
+  # number of periods to integrate (in rhythmic problems)
+  # values > 1 can be useful if system takes a while to converge to goal/baseline
+  n_passes: 1
+
+  # enable sharing primitives between dimensions
+  # entails fitting a mixing matrix, which adds overhead
+  share_primitives: false 
+  delay_primitives: false
+
+  # enable/disable primitive learning
+  # if true, individual basis weights/centers/widths are reparametrized
+  # by default, weights aren't fixed, no need to specify here
+  fix_basis_weights: false
+  fix_basis_centers: true 
+  fix_basis_widths: true
+
+  force_reference_initial_state: true
+
+# CMA-ES optimization config
+# defines how learning is conducted, cf. CMA-ES documentation
+cmaes:
+  # number of offspring p/ generation (i.e. evals p/ iteration)
+  # CMA-ES specific, useful when 'share_primitives' is enabled
+  lambda: 500
+
+  # initial parameter variance
+  sigma0: 100000
+
+  # asynchronous rollouts
+  # enabled by default, no need to specify here
+  # @note for some reason results are *much* worse when running multiple rollouts in parallel
+  #       that isn't a big issue in smaller dimenson problems like unidimensional regression, but for skill learning can be a deal-breaker
+  parallelize: true
+
+  # disable printing to stdout stream
+  quiet: false
+
+  # min cost to stop optimization
+  fitness_threshold: 100
+
+...
+
+
+

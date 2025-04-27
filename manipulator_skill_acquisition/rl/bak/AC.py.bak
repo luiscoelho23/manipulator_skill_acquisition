@@ -1,0 +1,132 @@
+import numpy as np
+import torch
+import torch.optim as optim
+import random
+from collections import deque
+import torch.nn as nn
+import DmpObstacleEnv
+
+class Actor(nn.Module):
+    def __init__(self, state_dim, action_dim, hidden_dim=256):
+        super(Actor, self).__init__()
+        self.fc1 = nn.Linear(state_dim, hidden_dim)
+        self.fc2 = nn.Linear(hidden_dim, hidden_dim)
+        self.fc3 = nn.Linear(hidden_dim, action_dim)
+        self.activation = nn.Tanh() 
+
+    def forward(self, state):
+        x = torch.relu(self.fc1(state))
+        x = torch.relu(self.fc2(x))
+        action = self.activation(self.fc3(x))
+        return action
+
+class Critic(nn.Module):
+    def __init__(self, state_dim, action_dim, hidden_dim=256):
+        super(Critic, self).__init__()
+        self.fc1 = nn.Linear(state_dim + action_dim, hidden_dim)
+        self.fc2 = nn.Linear(hidden_dim, hidden_dim)
+        self.fc3 = nn.Linear(hidden_dim, 64)
+
+    def forward(self, state, action):
+        x = torch.cat([state, action], dim=1)
+        x = torch.relu(self.fc1(x))
+        x = torch.relu(self.fc2(x))
+        q_value = self.fc3(x)
+        return q_value
+
+env = DmpObstacleEnv.DmpObstacleEnv()
+
+# Hyperparameters
+state_dim = 7  # State (Agent_position(xz) Target_position(xz) phase Closest_Obstacle(xz)) 
+action_dim = 3  # Action (offset1 offset2 offset3 phase base_width)
+gamma = 20  # Discount factor
+tau = 0.005  # Target network update rate
+lr_actor = 1e-2
+lr_critic = 1e-2
+buffer_size = 10000000
+batch_size = 64
+
+# Initialize networks
+actor = Actor(state_dim, action_dim)
+critic = Critic(state_dim, action_dim)
+target_actor = Actor(state_dim, action_dim)
+target_critic = Critic(state_dim, action_dim)
+
+# Copy weights from main networks to target networks
+target_actor.load_state_dict(actor.state_dict())
+target_critic.load_state_dict(critic.state_dict())
+
+# Optimizers
+actor_optimizer = optim.Adam(actor.parameters(), lr=lr_actor)
+critic_optimizer = optim.Adam(critic.parameters(), lr=lr_critic)
+
+# Replay buffer
+replay_buffer = deque(maxlen=buffer_size)
+
+def update_target(target, source, tau):
+    for target_param, param in zip(target.parameters(), source.parameters()):
+        target_param.data.copy_(tau * param.data + (1.0 - tau) * target_param.data)
+
+# Training loop
+num_episodes = 1000
+
+for episode in range(num_episodes):
+    state = torch.tensor(env.reset(), dtype=torch.float32)
+    episode_reward = 0
+    while 1: 
+        # Select action with exploration noise (Ornstein-Uhlenbeck process)
+        action = actor(state).detach().numpy()
+        noise = np.random.normal(0, 0.5, size=action_dim)
+        action = np.clip(action + noise , -1, 1)
+        action = torch.tensor(action, dtype=torch.float32)
+
+        # Perform action
+        next_state_np, reward, done = env.step(action.numpy())
+        next_state = torch.tensor(next_state_np, dtype=torch.float32)
+        reward = torch.tensor(reward, dtype=torch.float32)
+
+        # Store experience in replay buffer
+        replay_buffer.append((state, action, reward, next_state, done))
+        state = next_state
+        episode_reward += reward.item()
+
+        # Sample batch from replay buffer
+        if len(replay_buffer) > batch_size:
+            batch = random.sample(replay_buffer, batch_size)
+            batch_state, batch_action, batch_reward, batch_next_state, batch_done = zip(*batch)
+
+            batch_state = torch.stack(batch_state)
+            batch_action = torch.stack(batch_action)
+            batch_reward = torch.stack(batch_reward)
+            batch_next_state = torch.stack(batch_next_state)
+            batch_done = torch.tensor(batch_done, dtype=torch.float32)
+
+            # Compute target Q-value
+            with torch.no_grad():
+                target_action = target_actor(batch_next_state)
+                target_q_value = target_critic(batch_next_state, target_action)
+                target_q_value = batch_reward + (1 - batch_done) * gamma * target_q_value
+
+            # Critic update
+            q_value = critic(batch_state, batch_action)
+            critic_loss = nn.MSELoss()(q_value, target_q_value)
+
+            critic_optimizer.zero_grad()
+            critic_loss.backward()
+            critic_optimizer.step()
+
+            # Actor update
+            actor_loss = -critic(batch_state, actor(batch_state)).mean()
+
+            actor_optimizer.zero_grad()
+            actor_loss.backward()
+            actor_optimizer.step()
+
+            # Update target networks
+            update_target(target_actor, actor, tau)
+            update_target(target_critic, critic, tau)
+
+        if done:
+            break
+
+    print(f"Episode {episode + 1}/{num_episodes}, Reward: {episode_reward:.2f}")

@@ -1,0 +1,73 @@
+# RL Training Configuration
+# This file contains the default configuration for RL training
+
+# Environment Configuration
+environment: "env_dmp_obstacle"  # Options: "env_dmp_obstacle", "env_dmp_obstacle_via_points"
+
+# Training Hyperparameters
+hyperparameters:
+  # Common parameters for both algorithms
+  learning_rate: 0.0003
+  gamma: 0.99
+  batch_size: 256
+  tau: 0.01  # Target network update rate
+  buffer_limit: 1000000  # Replay buffer size
+  
+  # SAC specific parameters
+  init_alpha: 0.1  # Initial temperature parameter
+  
+  # DDPG specific parameters
+  exploration_noise: 0.1  # Noise for exploration
+
+# DMP Configuration
+dmp:
+  # Path to the DMP file (will be set by GUI)
+  file: ""  # Replace with your actual DMP file path
+  
+  # DMP parameters
+  parameters:
+    # Number of basis functions
+    n_basis: 25
+    
+    # Number of primitives
+    n_primitives: 3
+    
+    # Phase bounds
+    phase_bounds: [0.0, 1.0]
+    
+    # Integration timestep
+    integration_timestep: 0.001
+
+# Output Configuration
+output:
+  # Directory to save the trained model
+  directory: ""  # Replace with your desired output directory
+  
+  # Name of the model (will be set by GUI)
+  model_name: "rl_actor"
+  
+  # Save frequency (in number of episodes)
+  save_frequency: 5
+  
+  # Whether to save checkpoints
+  save_checkpoints: true
+  
+  # Whether to save the best model
+  save_best: true
+
+# Logging Configuration
+logging:
+  # Whether to enable logging
+  enabled: true
+  
+  # Log directory (relative to output directory)
+  directory: "logs"
+  
+  # Log frequency (in number of episodes)
+  frequency: 5
+  
+  # Whether to log to tensorboard
+  tensorboard: true
+  
+  # Whether to log to console
+  console: true 
