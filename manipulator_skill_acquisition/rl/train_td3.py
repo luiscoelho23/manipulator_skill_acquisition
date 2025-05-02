@@ -36,7 +36,7 @@ def save_model_on_exit():
         print("Saving model before exit...")
         current_date = datetime.now().strftime("%Y%m%d_%H%M%S")
         model_path = os.path.join(current_output_config['directory'], 
-                           f"{current_output_config['model_name']}_{current_date}_interrupted.pt")
+                           f"td3_{current_output_config['model_name']}_{current_date}_interrupted.pt")
         torch.save(current_agent.actor.state_dict(), model_path)
         print(f"Model saved to {model_path}")
     except Exception as e:
@@ -470,7 +470,7 @@ def train(config_path):
                 # Save best model
                 if output_config.get('save_best', True):
                     model_path = os.path.join(output_config['directory'], 
-                                            f"{output_config['model_name']}_{current_date}_best.pt")
+                                            f"td3_{output_config['model_name']}_{current_date}_best.pt")
                     torch.save(agent.actor.state_dict(), model_path)
             else:
                 no_improvement_counter += 1
@@ -478,13 +478,13 @@ def train(config_path):
             # If not using evaluation, save based on training score
             if output_config.get('save_best', True) and score > max(score_list[:-1] or [float('-inf')]):
                 model_path = os.path.join(output_config['directory'], 
-                                        f"{output_config['model_name']}_{current_date}_best.pt")
+                                        f"td3_{output_config['model_name']}_{current_date}_best.pt")
                 torch.save(agent.actor.state_dict(), model_path)
         
         # Save model according to configuration
         if output_config.get('save_checkpoints', True) and EP % output_config.get('save_frequency', 100) == 0:
             model_path = os.path.join(output_config['directory'], 
-                                    f"{output_config['model_name']}_{current_date}_EP{EP}.pt")
+                                    f"td3_{output_config['model_name']}_{current_date}_EP{EP}.pt")
             torch.save(agent.actor.state_dict(), model_path)
         
         # Plot scores

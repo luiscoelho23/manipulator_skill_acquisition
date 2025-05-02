@@ -1,7 +1,7 @@
 dmp:
-  file: /home/luisc/ws_manipulator/install/manipulator_skill_acquisition/share/manipulator_skill_acquisition/resources/dmp/dmp.mpx
+  file: /home/luisc/ws_manipulator/install/manipulator_skill_acquisition/share/manipulator_skill_acquisition/resources/dmp/traj2.mpx
   parameters:
-    integration_timestep: 0.001
+    integration_timestep: 0.01
     n_basis: 25
     n_primitives: 3
     phase_bounds:

@@ -62,7 +62,7 @@ try:
         return np.array([eeframe.p.x(), eeframe.p.y(), eeframe.p.z()])
 
     # Função de cinemática inversa aproximada usando gradiente descendente
-    def gradient_descent_ik(joint_angles, target_position, learning_rate=0.01, tolerance=2e-3):
+    def gradient_descent_ik(joint_angles, target_position, learning_rate=0.01, tolerance=2e-2):
         max_iterations = 50000  # Limite de iterações para convergência
         joint_angle_og = joint_angles.copy()
         for i in range(max_iterations):

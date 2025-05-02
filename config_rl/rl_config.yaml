@@ -36,7 +36,7 @@ dmp:
     phase_bounds: [0.0, 1.0]
     
     # Integration timestep
-    integration_timestep: 0.001
+    integration_timestep: 0.01
 
 # Output Configuration
 output:
