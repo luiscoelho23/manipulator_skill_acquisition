@@ -67,44 +67,6 @@ try:
 except AttributeError:
     pass  # Not on Windows
 
-# Defining a Critic network for DDPG
-class Critic(nn.Module):
-    def __init__(self, state_dim, action_dim, critic_lr=0.0001):
-        super(Critic, self).__init__()
-        
-        self.fc_s = nn.Linear(state_dim, 256)
-        self.ln_s = nn.LayerNorm(256)
-        self.fc_a = nn.Linear(action_dim, 256)
-        self.ln_a = nn.LayerNorm(256)
-        self.fc_1 = nn.Linear(512, 256)
-        self.ln_1 = nn.LayerNorm(256)
-        self.fc_out = nn.Linear(256, 1)
-        
-        # Improved weight initialization
-        self._init_weights()
-        
-        self.lr = critic_lr
-        self.optimizer = optim.Adam(self.parameters(), lr=self.lr, weight_decay=1e-5)
-    
-    def _init_weights(self):
-        # Initialize weights using He initialization for better training dynamics
-        for m in self.modules():
-            if isinstance(m, nn.Linear):
-                nn.init.kaiming_normal_(m.weight, a=0.01, nonlinearity='leaky_relu')
-                nn.init.constant_(m.bias, 0)
-        
-        # Initialize output layer with smaller weights
-        nn.init.uniform_(self.fc_out.weight, -3e-3, 3e-3)
-        nn.init.uniform_(self.fc_out.bias, -3e-3, 3e-3)
-    
-    def forward(self, x, a):
-        h1 = F.leaky_relu(self.ln_s(self.fc_s(x)))
-        h2 = F.leaky_relu(self.ln_a(self.fc_a(a)))
-        cat = torch.cat([h1, h2], dim=-1)
-        q = F.leaky_relu(self.ln_1(self.fc_1(cat)))
-        q = self.fc_out(q)
-        return q
-
 class ReplayBuffer:
     def __init__(self, buffer_limit, state_dim, action_dim, device):
         self.buffer_limit = int(buffer_limit)
