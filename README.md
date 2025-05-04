@@ -55,7 +55,8 @@ manipulator_skill_acquisition/
 - NumPy
 - pandas (for Excel data processing)
 - manipulator package
-- mplibrary (for motion primitives)
+- [mplibrary](https://github.com/BiRDLab-UMinho/mplibrary) (for motion primitives)
+- [mplearn](https://github.com/BiRDLab-UMinho/mplearn) (for motion primitives)
 
 ## Installation
 
