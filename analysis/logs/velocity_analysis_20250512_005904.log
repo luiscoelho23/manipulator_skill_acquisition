@@ -1,0 +1,2045 @@
+2025-05-12 00:59:04,771 - INFO - 
+==================================================
+2025-05-12 00:59:04,771 - INFO - MANIPULATOR SKILL ACQUISITION - VELOCITY PROFILE ANALYSIS
+2025-05-12 00:59:04,771 - INFO - ==================================================
+2025-05-12 00:59:04,771 - INFO - 
+Processing participant 1/9: adriana
+2025-05-12 00:59:04,771 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:04,771 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_1.xlsx
+2025-05-12 00:59:05,006 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 1:
+2025-05-12 00:59:05,006 - INFO -   Traj1 - Mean Velocity: 0.0029 mm/s
+2025-05-12 00:59:05,006 - INFO -   Traj1 - Velocity Consistency: 0.0022 mm/s
+2025-05-12 00:59:05,006 - INFO -   Traj2 - Mean Velocity: 0.0029 mm/s
+2025-05-12 00:59:05,006 - INFO -   Traj2 - Velocity Consistency: 0.0022 mm/s
+2025-05-12 00:59:05,041 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_1.xlsx
+2025-05-12 00:59:05,154 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 1:
+2025-05-12 00:59:05,154 - INFO -   Traj1 - Mean Velocity: -0.1722 degrees/s
+2025-05-12 00:59:05,155 - INFO -   Traj1 - Velocity Consistency: 0.3635 degrees/s
+2025-05-12 00:59:05,155 - INFO -   Traj2 - Mean Velocity: -0.2250 degrees/s
+2025-05-12 00:59:05,155 - INFO -   Traj2 - Velocity Consistency: 0.4139 degrees/s
+2025-05-12 00:59:05,247 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 1:
+2025-05-12 00:59:05,248 - INFO -   Traj1 - Mean Velocity: -0.0506 degrees/s
+2025-05-12 00:59:05,248 - INFO -   Traj1 - Velocity Consistency: 0.8527 degrees/s
+2025-05-12 00:59:05,248 - INFO -   Traj2 - Mean Velocity: -0.1618 degrees/s
+2025-05-12 00:59:05,248 - INFO -   Traj2 - Velocity Consistency: 0.8109 degrees/s
+2025-05-12 00:59:05,343 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 1:
+2025-05-12 00:59:05,344 - INFO -   Traj1 - Mean Velocity: 0.0965 degrees/s
+2025-05-12 00:59:05,344 - INFO -   Traj1 - Velocity Consistency: 0.9147 degrees/s
+2025-05-12 00:59:05,344 - INFO -   Traj2 - Mean Velocity: 0.0170 degrees/s
+2025-05-12 00:59:05,344 - INFO -   Traj2 - Velocity Consistency: 0.9190 degrees/s
+2025-05-12 00:59:05,416 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:05,416 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_2.xlsx
+2025-05-12 00:59:05,520 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 2:
+2025-05-12 00:59:05,520 - INFO -   Traj1 - Mean Velocity: 0.0035 mm/s
+2025-05-12 00:59:05,520 - INFO -   Traj1 - Velocity Consistency: 0.0023 mm/s
+2025-05-12 00:59:05,520 - INFO -   Traj2 - Mean Velocity: 0.0035 mm/s
+2025-05-12 00:59:05,520 - INFO -   Traj2 - Velocity Consistency: 0.0023 mm/s
+2025-05-12 00:59:05,561 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_2.xlsx
+2025-05-12 00:59:05,681 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 2:
+2025-05-12 00:59:05,682 - INFO -   Traj1 - Mean Velocity: -0.1015 degrees/s
+2025-05-12 00:59:05,682 - INFO -   Traj1 - Velocity Consistency: 0.3462 degrees/s
+2025-05-12 00:59:05,682 - INFO -   Traj2 - Mean Velocity: -0.1969 degrees/s
+2025-05-12 00:59:05,682 - INFO -   Traj2 - Velocity Consistency: 0.3907 degrees/s
+2025-05-12 00:59:05,783 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 2:
+2025-05-12 00:59:05,783 - INFO -   Traj1 - Mean Velocity: 0.0812 degrees/s
+2025-05-12 00:59:05,784 - INFO -   Traj1 - Velocity Consistency: 0.9597 degrees/s
+2025-05-12 00:59:05,784 - INFO -   Traj2 - Mean Velocity: -0.0685 degrees/s
+2025-05-12 00:59:05,784 - INFO -   Traj2 - Velocity Consistency: 0.8292 degrees/s
+2025-05-12 00:59:05,880 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 2:
+2025-05-12 00:59:05,880 - INFO -   Traj1 - Mean Velocity: 0.0968 degrees/s
+2025-05-12 00:59:05,881 - INFO -   Traj1 - Velocity Consistency: 0.8776 degrees/s
+2025-05-12 00:59:05,881 - INFO -   Traj2 - Mean Velocity: -0.0193 degrees/s
+2025-05-12 00:59:05,881 - INFO -   Traj2 - Velocity Consistency: 0.9510 degrees/s
+2025-05-12 00:59:05,960 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:05,961 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_3.xlsx
+2025-05-12 00:59:06,060 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 3:
+2025-05-12 00:59:06,060 - INFO -   Traj1 - Mean Velocity: 0.0035 mm/s
+2025-05-12 00:59:06,060 - INFO -   Traj1 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:06,060 - INFO -   Traj2 - Mean Velocity: 0.0035 mm/s
+2025-05-12 00:59:06,060 - INFO -   Traj2 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:06,101 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_3.xlsx
+2025-05-12 00:59:06,203 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 3:
+2025-05-12 00:59:06,203 - INFO -   Traj1 - Mean Velocity: -0.2783 degrees/s
+2025-05-12 00:59:06,203 - INFO -   Traj1 - Velocity Consistency: 0.4611 degrees/s
+2025-05-12 00:59:06,203 - INFO -   Traj2 - Mean Velocity: -0.3985 degrees/s
+2025-05-12 00:59:06,203 - INFO -   Traj2 - Velocity Consistency: 0.5119 degrees/s
+2025-05-12 00:59:06,309 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 3:
+2025-05-12 00:59:06,309 - INFO -   Traj1 - Mean Velocity: -0.0720 degrees/s
+2025-05-12 00:59:06,309 - INFO -   Traj1 - Velocity Consistency: 0.9037 degrees/s
+2025-05-12 00:59:06,309 - INFO -   Traj2 - Mean Velocity: -0.2749 degrees/s
+2025-05-12 00:59:06,309 - INFO -   Traj2 - Velocity Consistency: 0.8668 degrees/s
+2025-05-12 00:59:06,402 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 3:
+2025-05-12 00:59:06,403 - INFO -   Traj1 - Mean Velocity: 0.1617 degrees/s
+2025-05-12 00:59:06,403 - INFO -   Traj1 - Velocity Consistency: 0.8853 degrees/s
+2025-05-12 00:59:06,403 - INFO -   Traj2 - Mean Velocity: 0.0201 degrees/s
+2025-05-12 00:59:06,403 - INFO -   Traj2 - Velocity Consistency: 0.9218 degrees/s
+2025-05-12 00:59:06,496 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:06,497 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_4.xlsx
+2025-05-12 00:59:06,604 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 4:
+2025-05-12 00:59:06,604 - INFO -   Traj1 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:06,604 - INFO -   Traj1 - Velocity Consistency: 0.0036 mm/s
+2025-05-12 00:59:06,604 - INFO -   Traj2 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:06,604 - INFO -   Traj2 - Velocity Consistency: 0.0036 mm/s
+2025-05-12 00:59:06,652 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_4.xlsx
+2025-05-12 00:59:06,769 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 4:
+2025-05-12 00:59:06,770 - INFO -   Traj1 - Mean Velocity: -0.1820 degrees/s
+2025-05-12 00:59:06,770 - INFO -   Traj1 - Velocity Consistency: 0.4872 degrees/s
+2025-05-12 00:59:06,770 - INFO -   Traj2 - Mean Velocity: -0.3419 degrees/s
+2025-05-12 00:59:06,770 - INFO -   Traj2 - Velocity Consistency: 0.5193 degrees/s
+2025-05-12 00:59:06,869 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 4:
+2025-05-12 00:59:06,869 - INFO -   Traj1 - Mean Velocity: 0.0802 degrees/s
+2025-05-12 00:59:06,869 - INFO -   Traj1 - Velocity Consistency: 1.2703 degrees/s
+2025-05-12 00:59:06,869 - INFO -   Traj2 - Mean Velocity: -0.1574 degrees/s
+2025-05-12 00:59:06,869 - INFO -   Traj2 - Velocity Consistency: 1.0122 degrees/s
+2025-05-12 00:59:06,983 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 4:
+2025-05-12 00:59:06,984 - INFO -   Traj1 - Mean Velocity: 0.1377 degrees/s
+2025-05-12 00:59:06,984 - INFO -   Traj1 - Velocity Consistency: 1.0362 degrees/s
+2025-05-12 00:59:06,984 - INFO -   Traj2 - Mean Velocity: -0.0398 degrees/s
+2025-05-12 00:59:06,984 - INFO -   Traj2 - Velocity Consistency: 1.2329 degrees/s
+2025-05-12 00:59:07,086 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:07,086 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_5.xlsx
+2025-05-12 00:59:07,194 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 5:
+2025-05-12 00:59:07,194 - INFO -   Traj1 - Mean Velocity: 0.0041 mm/s
+2025-05-12 00:59:07,194 - INFO -   Traj1 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:07,194 - INFO -   Traj2 - Mean Velocity: 0.0040 mm/s
+2025-05-12 00:59:07,195 - INFO -   Traj2 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:07,244 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_5.xlsx
+2025-05-12 00:59:07,351 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 5:
+2025-05-12 00:59:07,352 - INFO -   Traj1 - Mean Velocity: -0.3662 degrees/s
+2025-05-12 00:59:07,352 - INFO -   Traj1 - Velocity Consistency: 0.3803 degrees/s
+2025-05-12 00:59:07,352 - INFO -   Traj2 - Mean Velocity: -0.5685 degrees/s
+2025-05-12 00:59:07,352 - INFO -   Traj2 - Velocity Consistency: 0.5775 degrees/s
+2025-05-12 00:59:07,472 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 5:
+2025-05-12 00:59:07,472 - INFO -   Traj1 - Mean Velocity: -0.0652 degrees/s
+2025-05-12 00:59:07,472 - INFO -   Traj1 - Velocity Consistency: 0.7554 degrees/s
+2025-05-12 00:59:07,472 - INFO -   Traj2 - Mean Velocity: -0.3529 degrees/s
+2025-05-12 00:59:07,472 - INFO -   Traj2 - Velocity Consistency: 0.7586 degrees/s
+2025-05-12 00:59:07,613 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 5:
+2025-05-12 00:59:07,613 - INFO -   Traj1 - Mean Velocity: 0.1458 degrees/s
+2025-05-12 00:59:07,613 - INFO -   Traj1 - Velocity Consistency: 0.7906 degrees/s
+2025-05-12 00:59:07,613 - INFO -   Traj2 - Mean Velocity: -0.0518 degrees/s
+2025-05-12 00:59:07,613 - INFO -   Traj2 - Velocity Consistency: 0.8613 degrees/s
+2025-05-12 00:59:07,709 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:07,710 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_6.xlsx
+2025-05-12 00:59:07,815 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 6:
+2025-05-12 00:59:07,815 - INFO -   Traj1 - Mean Velocity: 0.0047 mm/s
+2025-05-12 00:59:07,815 - INFO -   Traj1 - Velocity Consistency: 0.0036 mm/s
+2025-05-12 00:59:07,815 - INFO -   Traj2 - Mean Velocity: 0.0047 mm/s
+2025-05-12 00:59:07,815 - INFO -   Traj2 - Velocity Consistency: 0.0035 mm/s
+2025-05-12 00:59:07,875 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_6.xlsx
+2025-05-12 00:59:07,976 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 6:
+2025-05-12 00:59:07,976 - INFO -   Traj1 - Mean Velocity: -0.2488 degrees/s
+2025-05-12 00:59:07,976 - INFO -   Traj1 - Velocity Consistency: 0.5901 degrees/s
+2025-05-12 00:59:07,976 - INFO -   Traj2 - Mean Velocity: -0.4901 degrees/s
+2025-05-12 00:59:07,976 - INFO -   Traj2 - Velocity Consistency: 0.7825 degrees/s
+2025-05-12 00:59:08,080 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 6:
+2025-05-12 00:59:08,080 - INFO -   Traj1 - Mean Velocity: 0.0947 degrees/s
+2025-05-12 00:59:08,081 - INFO -   Traj1 - Velocity Consistency: 0.9942 degrees/s
+2025-05-12 00:59:08,081 - INFO -   Traj2 - Mean Velocity: -0.2352 degrees/s
+2025-05-12 00:59:08,081 - INFO -   Traj2 - Velocity Consistency: 1.0103 degrees/s
+2025-05-12 00:59:08,177 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 6:
+2025-05-12 00:59:08,177 - INFO -   Traj1 - Mean Velocity: 0.1662 degrees/s
+2025-05-12 00:59:08,177 - INFO -   Traj1 - Velocity Consistency: 0.9567 degrees/s
+2025-05-12 00:59:08,177 - INFO -   Traj2 - Mean Velocity: -0.0728 degrees/s
+2025-05-12 00:59:08,177 - INFO -   Traj2 - Velocity Consistency: 1.0259 degrees/s
+2025-05-12 00:59:08,287 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:08,287 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_7.xlsx
+2025-05-12 00:59:08,398 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 7:
+2025-05-12 00:59:08,398 - INFO -   Traj1 - Mean Velocity: 0.0050 mm/s
+2025-05-12 00:59:08,398 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:08,399 - INFO -   Traj2 - Mean Velocity: 0.0050 mm/s
+2025-05-12 00:59:08,399 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:08,452 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_7.xlsx
+2025-05-12 00:59:08,558 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 7:
+2025-05-12 00:59:08,558 - INFO -   Traj1 - Mean Velocity: -0.3976 degrees/s
+2025-05-12 00:59:08,558 - INFO -   Traj1 - Velocity Consistency: 0.5922 degrees/s
+2025-05-12 00:59:08,558 - INFO -   Traj2 - Mean Velocity: -0.7493 degrees/s
+2025-05-12 00:59:08,558 - INFO -   Traj2 - Velocity Consistency: 0.7779 degrees/s
+2025-05-12 00:59:08,647 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 7:
+2025-05-12 00:59:08,647 - INFO -   Traj1 - Mean Velocity: 0.0083 degrees/s
+2025-05-12 00:59:08,647 - INFO -   Traj1 - Velocity Consistency: 1.0102 degrees/s
+2025-05-12 00:59:08,647 - INFO -   Traj2 - Mean Velocity: -0.4181 degrees/s
+2025-05-12 00:59:08,647 - INFO -   Traj2 - Velocity Consistency: 0.9242 degrees/s
+2025-05-12 00:59:08,735 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 7:
+2025-05-12 00:59:08,735 - INFO -   Traj1 - Mean Velocity: 0.2266 degrees/s
+2025-05-12 00:59:08,735 - INFO -   Traj1 - Velocity Consistency: 0.8820 degrees/s
+2025-05-12 00:59:08,736 - INFO -   Traj2 - Mean Velocity: 0.0046 degrees/s
+2025-05-12 00:59:08,736 - INFO -   Traj2 - Velocity Consistency: 1.0054 degrees/s
+2025-05-12 00:59:08,843 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:08,843 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ee_error_8.xlsx
+2025-05-12 00:59:08,954 - INFO - 
+End-Effector Velocity Statistics for adriana - Trial 8:
+2025-05-12 00:59:08,954 - INFO -   Traj1 - Mean Velocity: 0.0054 mm/s
+2025-05-12 00:59:08,954 - INFO -   Traj1 - Velocity Consistency: 0.0052 mm/s
+2025-05-12 00:59:08,954 - INFO -   Traj2 - Mean Velocity: 0.0054 mm/s
+2025-05-12 00:59:08,954 - INFO -   Traj2 - Velocity Consistency: 0.0052 mm/s
+2025-05-12 00:59:09,012 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/adriana/results/ang_error_8.xlsx
+2025-05-12 00:59:09,110 - INFO - 
+Joint1 Velocity Statistics for adriana - Trial 8:
+2025-05-12 00:59:09,110 - INFO -   Traj1 - Mean Velocity: -0.2854 degrees/s
+2025-05-12 00:59:09,110 - INFO -   Traj1 - Velocity Consistency: 0.6476 degrees/s
+2025-05-12 00:59:09,110 - INFO -   Traj2 - Mean Velocity: -0.6013 degrees/s
+2025-05-12 00:59:09,110 - INFO -   Traj2 - Velocity Consistency: 1.8098 degrees/s
+2025-05-12 00:59:09,215 - INFO - 
+Joint2 Velocity Statistics for adriana - Trial 8:
+2025-05-12 00:59:09,215 - INFO -   Traj1 - Mean Velocity: 0.1365 degrees/s
+2025-05-12 00:59:09,215 - INFO -   Traj1 - Velocity Consistency: 1.0927 degrees/s
+2025-05-12 00:59:09,215 - INFO -   Traj2 - Mean Velocity: -0.4859 degrees/s
+2025-05-12 00:59:09,215 - INFO -   Traj2 - Velocity Consistency: 1.9945 degrees/s
+2025-05-12 00:59:09,308 - INFO - 
+Joint3 Velocity Statistics for adriana - Trial 8:
+2025-05-12 00:59:09,308 - INFO -   Traj1 - Mean Velocity: 0.4147 degrees/s
+2025-05-12 00:59:09,308 - INFO -   Traj1 - Velocity Consistency: 0.8328 degrees/s
+2025-05-12 00:59:09,308 - INFO -   Traj2 - Mean Velocity: 0.6948 degrees/s
+2025-05-12 00:59:09,308 - INFO -   Traj2 - Velocity Consistency: 2.8145 degrees/s
+2025-05-12 00:59:09,482 - INFO - 
+Processing participant 2/9: afonsoleite
+2025-05-12 00:59:09,482 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:09,482 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_1.xlsx
+2025-05-12 00:59:09,582 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 1:
+2025-05-12 00:59:09,582 - INFO -   Traj1 - Mean Velocity: 0.0030 mm/s
+2025-05-12 00:59:09,582 - INFO -   Traj1 - Velocity Consistency: 0.0020 mm/s
+2025-05-12 00:59:09,582 - INFO -   Traj2 - Mean Velocity: 0.0029 mm/s
+2025-05-12 00:59:09,582 - INFO -   Traj2 - Velocity Consistency: 0.0019 mm/s
+2025-05-12 00:59:09,641 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_1.xlsx
+2025-05-12 00:59:09,740 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 1:
+2025-05-12 00:59:09,741 - INFO -   Traj1 - Mean Velocity: -0.1699 degrees/s
+2025-05-12 00:59:09,741 - INFO -   Traj1 - Velocity Consistency: 0.4186 degrees/s
+2025-05-12 00:59:09,741 - INFO -   Traj2 - Mean Velocity: -0.2342 degrees/s
+2025-05-12 00:59:09,741 - INFO -   Traj2 - Velocity Consistency: 0.5212 degrees/s
+2025-05-12 00:59:09,825 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 1:
+2025-05-12 00:59:09,826 - INFO -   Traj1 - Mean Velocity: -0.1055 degrees/s
+2025-05-12 00:59:09,826 - INFO -   Traj1 - Velocity Consistency: 0.4859 degrees/s
+2025-05-12 00:59:09,826 - INFO -   Traj2 - Mean Velocity: -0.2101 degrees/s
+2025-05-12 00:59:09,826 - INFO -   Traj2 - Velocity Consistency: 0.6229 degrees/s
+2025-05-12 00:59:09,923 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 1:
+2025-05-12 00:59:09,924 - INFO -   Traj1 - Mean Velocity: 0.0269 degrees/s
+2025-05-12 00:59:09,924 - INFO -   Traj1 - Velocity Consistency: 0.1749 degrees/s
+2025-05-12 00:59:09,924 - INFO -   Traj2 - Mean Velocity: -0.0491 degrees/s
+2025-05-12 00:59:09,924 - INFO -   Traj2 - Velocity Consistency: 0.1556 degrees/s
+2025-05-12 00:59:10,040 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:10,040 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_2.xlsx
+2025-05-12 00:59:10,145 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 2:
+2025-05-12 00:59:10,145 - INFO -   Traj1 - Mean Velocity: 0.0033 mm/s
+2025-05-12 00:59:10,145 - INFO -   Traj1 - Velocity Consistency: 0.0017 mm/s
+2025-05-12 00:59:10,145 - INFO -   Traj2 - Mean Velocity: 0.0033 mm/s
+2025-05-12 00:59:10,145 - INFO -   Traj2 - Velocity Consistency: 0.0017 mm/s
+2025-05-12 00:59:10,210 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_2.xlsx
+2025-05-12 00:59:10,331 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 2:
+2025-05-12 00:59:10,331 - INFO -   Traj1 - Mean Velocity: -0.1060 degrees/s
+2025-05-12 00:59:10,331 - INFO -   Traj1 - Velocity Consistency: 0.4140 degrees/s
+2025-05-12 00:59:10,331 - INFO -   Traj2 - Mean Velocity: -0.1543 degrees/s
+2025-05-12 00:59:10,331 - INFO -   Traj2 - Velocity Consistency: 0.4832 degrees/s
+2025-05-12 00:59:10,433 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 2:
+2025-05-12 00:59:10,433 - INFO -   Traj1 - Mean Velocity: 0.0138 degrees/s
+2025-05-12 00:59:10,433 - INFO -   Traj1 - Velocity Consistency: 0.5653 degrees/s
+2025-05-12 00:59:10,433 - INFO -   Traj2 - Mean Velocity: -0.0746 degrees/s
+2025-05-12 00:59:10,434 - INFO -   Traj2 - Velocity Consistency: 0.6649 degrees/s
+2025-05-12 00:59:10,527 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 2:
+2025-05-12 00:59:10,527 - INFO -   Traj1 - Mean Velocity: -0.0174 degrees/s
+2025-05-12 00:59:10,527 - INFO -   Traj1 - Velocity Consistency: 0.1232 degrees/s
+2025-05-12 00:59:10,528 - INFO -   Traj2 - Mean Velocity: -0.0849 degrees/s
+2025-05-12 00:59:10,528 - INFO -   Traj2 - Velocity Consistency: 0.1013 degrees/s
+2025-05-12 00:59:10,666 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:10,666 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_3.xlsx
+2025-05-12 00:59:10,761 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 3:
+2025-05-12 00:59:10,761 - INFO -   Traj1 - Mean Velocity: 0.0036 mm/s
+2025-05-12 00:59:10,761 - INFO -   Traj1 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:10,761 - INFO -   Traj2 - Mean Velocity: 0.0035 mm/s
+2025-05-12 00:59:10,762 - INFO -   Traj2 - Velocity Consistency: 0.0025 mm/s
+2025-05-12 00:59:10,828 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_3.xlsx
+2025-05-12 00:59:10,933 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 3:
+2025-05-12 00:59:10,933 - INFO -   Traj1 - Mean Velocity: -0.2442 degrees/s
+2025-05-12 00:59:10,934 - INFO -   Traj1 - Velocity Consistency: 0.5320 degrees/s
+2025-05-12 00:59:10,934 - INFO -   Traj2 - Mean Velocity: -0.2848 degrees/s
+2025-05-12 00:59:10,934 - INFO -   Traj2 - Velocity Consistency: 0.6061 degrees/s
+2025-05-12 00:59:11,024 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 3:
+2025-05-12 00:59:11,025 - INFO -   Traj1 - Mean Velocity: -0.1912 degrees/s
+2025-05-12 00:59:11,025 - INFO -   Traj1 - Velocity Consistency: 0.5106 degrees/s
+2025-05-12 00:59:11,025 - INFO -   Traj2 - Mean Velocity: -0.2977 degrees/s
+2025-05-12 00:59:11,025 - INFO -   Traj2 - Velocity Consistency: 0.6864 degrees/s
+2025-05-12 00:59:11,126 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 3:
+2025-05-12 00:59:11,127 - INFO -   Traj1 - Mean Velocity: -0.0379 degrees/s
+2025-05-12 00:59:11,127 - INFO -   Traj1 - Velocity Consistency: 0.0888 degrees/s
+2025-05-12 00:59:11,127 - INFO -   Traj2 - Mean Velocity: -0.1101 degrees/s
+2025-05-12 00:59:11,127 - INFO -   Traj2 - Velocity Consistency: 0.1718 degrees/s
+2025-05-12 00:59:11,271 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:11,271 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_4.xlsx
+2025-05-12 00:59:11,365 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 4:
+2025-05-12 00:59:11,365 - INFO -   Traj1 - Mean Velocity: 0.0040 mm/s
+2025-05-12 00:59:11,365 - INFO -   Traj1 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:11,365 - INFO -   Traj2 - Mean Velocity: 0.0039 mm/s
+2025-05-12 00:59:11,365 - INFO -   Traj2 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:11,434 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_4.xlsx
+2025-05-12 00:59:11,533 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 4:
+2025-05-12 00:59:11,533 - INFO -   Traj1 - Mean Velocity: -0.1829 degrees/s
+2025-05-12 00:59:11,533 - INFO -   Traj1 - Velocity Consistency: 0.5863 degrees/s
+2025-05-12 00:59:11,533 - INFO -   Traj2 - Mean Velocity: -0.2324 degrees/s
+2025-05-12 00:59:11,533 - INFO -   Traj2 - Velocity Consistency: 0.6973 degrees/s
+2025-05-12 00:59:11,625 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 4:
+2025-05-12 00:59:11,626 - INFO -   Traj1 - Mean Velocity: -0.1085 degrees/s
+2025-05-12 00:59:11,626 - INFO -   Traj1 - Velocity Consistency: 0.6412 degrees/s
+2025-05-12 00:59:11,626 - INFO -   Traj2 - Mean Velocity: -0.2064 degrees/s
+2025-05-12 00:59:11,626 - INFO -   Traj2 - Velocity Consistency: 0.8281 degrees/s
+2025-05-12 00:59:11,728 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 4:
+2025-05-12 00:59:11,729 - INFO -   Traj1 - Mean Velocity: -0.0427 degrees/s
+2025-05-12 00:59:11,729 - INFO -   Traj1 - Velocity Consistency: 0.1159 degrees/s
+2025-05-12 00:59:11,729 - INFO -   Traj2 - Mean Velocity: -0.1153 degrees/s
+2025-05-12 00:59:11,729 - INFO -   Traj2 - Velocity Consistency: 0.1776 degrees/s
+2025-05-12 00:59:11,886 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:11,886 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_5.xlsx
+2025-05-12 00:59:11,995 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 5:
+2025-05-12 00:59:11,995 - INFO -   Traj1 - Mean Velocity: 0.0043 mm/s
+2025-05-12 00:59:11,995 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:11,995 - INFO -   Traj2 - Mean Velocity: 0.0043 mm/s
+2025-05-12 00:59:11,995 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:12,070 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_5.xlsx
+2025-05-12 00:59:12,177 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 5:
+2025-05-12 00:59:12,177 - INFO -   Traj1 - Mean Velocity: -0.2886 degrees/s
+2025-05-12 00:59:12,177 - INFO -   Traj1 - Velocity Consistency: 0.7176 degrees/s
+2025-05-12 00:59:12,177 - INFO -   Traj2 - Mean Velocity: -0.3589 degrees/s
+2025-05-12 00:59:12,177 - INFO -   Traj2 - Velocity Consistency: 0.8342 degrees/s
+2025-05-12 00:59:12,288 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 5:
+2025-05-12 00:59:12,288 - INFO -   Traj1 - Mean Velocity: -0.1844 degrees/s
+2025-05-12 00:59:12,288 - INFO -   Traj1 - Velocity Consistency: 0.7286 degrees/s
+2025-05-12 00:59:12,288 - INFO -   Traj2 - Mean Velocity: -0.3252 degrees/s
+2025-05-12 00:59:12,288 - INFO -   Traj2 - Velocity Consistency: 0.9610 degrees/s
+2025-05-12 00:59:12,410 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 5:
+2025-05-12 00:59:12,410 - INFO -   Traj1 - Mean Velocity: -0.0505 degrees/s
+2025-05-12 00:59:12,410 - INFO -   Traj1 - Velocity Consistency: 0.1304 degrees/s
+2025-05-12 00:59:12,411 - INFO -   Traj2 - Mean Velocity: -0.1522 degrees/s
+2025-05-12 00:59:12,411 - INFO -   Traj2 - Velocity Consistency: 0.2759 degrees/s
+2025-05-12 00:59:12,590 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:12,590 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_6.xlsx
+2025-05-12 00:59:12,744 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 6:
+2025-05-12 00:59:12,744 - INFO -   Traj1 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:12,744 - INFO -   Traj1 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:12,744 - INFO -   Traj2 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:12,745 - INFO -   Traj2 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:12,835 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_6.xlsx
+2025-05-12 00:59:12,950 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 6:
+2025-05-12 00:59:12,950 - INFO -   Traj1 - Mean Velocity: -0.2157 degrees/s
+2025-05-12 00:59:12,950 - INFO -   Traj1 - Velocity Consistency: 0.6506 degrees/s
+2025-05-12 00:59:12,950 - INFO -   Traj2 - Mean Velocity: -0.2993 degrees/s
+2025-05-12 00:59:12,951 - INFO -   Traj2 - Velocity Consistency: 0.7924 degrees/s
+2025-05-12 00:59:13,057 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 6:
+2025-05-12 00:59:13,057 - INFO -   Traj1 - Mean Velocity: -0.0287 degrees/s
+2025-05-12 00:59:13,057 - INFO -   Traj1 - Velocity Consistency: 0.5984 degrees/s
+2025-05-12 00:59:13,057 - INFO -   Traj2 - Mean Velocity: -0.1786 degrees/s
+2025-05-12 00:59:13,057 - INFO -   Traj2 - Velocity Consistency: 0.8258 degrees/s
+2025-05-12 00:59:13,173 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 6:
+2025-05-12 00:59:13,173 - INFO -   Traj1 - Mean Velocity: -0.0475 degrees/s
+2025-05-12 00:59:13,173 - INFO -   Traj1 - Velocity Consistency: 0.1563 degrees/s
+2025-05-12 00:59:13,174 - INFO -   Traj2 - Mean Velocity: -0.1631 degrees/s
+2025-05-12 00:59:13,174 - INFO -   Traj2 - Velocity Consistency: 0.2286 degrees/s
+2025-05-12 00:59:13,329 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:13,330 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_7.xlsx
+2025-05-12 00:59:13,428 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 7:
+2025-05-12 00:59:13,428 - INFO -   Traj1 - Mean Velocity: 0.0048 mm/s
+2025-05-12 00:59:13,429 - INFO -   Traj1 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:13,429 - INFO -   Traj2 - Mean Velocity: 0.0048 mm/s
+2025-05-12 00:59:13,429 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:13,511 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_7.xlsx
+2025-05-12 00:59:13,613 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 7:
+2025-05-12 00:59:13,613 - INFO -   Traj1 - Mean Velocity: -0.3329 degrees/s
+2025-05-12 00:59:13,614 - INFO -   Traj1 - Velocity Consistency: 0.5257 degrees/s
+2025-05-12 00:59:13,614 - INFO -   Traj2 - Mean Velocity: -0.5737 degrees/s
+2025-05-12 00:59:13,614 - INFO -   Traj2 - Velocity Consistency: 0.9553 degrees/s
+2025-05-12 00:59:13,710 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 7:
+2025-05-12 00:59:13,710 - INFO -   Traj1 - Mean Velocity: -0.1391 degrees/s
+2025-05-12 00:59:13,710 - INFO -   Traj1 - Velocity Consistency: 0.7431 degrees/s
+2025-05-12 00:59:13,710 - INFO -   Traj2 - Mean Velocity: -0.4175 degrees/s
+2025-05-12 00:59:13,710 - INFO -   Traj2 - Velocity Consistency: 1.1106 degrees/s
+2025-05-12 00:59:13,808 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 7:
+2025-05-12 00:59:13,808 - INFO -   Traj1 - Mean Velocity: 0.1393 degrees/s
+2025-05-12 00:59:13,808 - INFO -   Traj1 - Velocity Consistency: 0.8278 degrees/s
+2025-05-12 00:59:13,808 - INFO -   Traj2 - Mean Velocity: -0.0090 degrees/s
+2025-05-12 00:59:13,808 - INFO -   Traj2 - Velocity Consistency: 0.8916 degrees/s
+2025-05-12 00:59:13,975 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:13,976 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ee_error_8.xlsx
+2025-05-12 00:59:14,073 - INFO - 
+End-Effector Velocity Statistics for afonsoleite - Trial 8:
+2025-05-12 00:59:14,074 - INFO -   Traj1 - Mean Velocity: 0.0061 mm/s
+2025-05-12 00:59:14,074 - INFO -   Traj1 - Velocity Consistency: 0.0041 mm/s
+2025-05-12 00:59:14,074 - INFO -   Traj2 - Mean Velocity: 0.0061 mm/s
+2025-05-12 00:59:14,074 - INFO -   Traj2 - Velocity Consistency: 0.0041 mm/s
+2025-05-12 00:59:14,159 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/afonsoleite/results/ang_error_8.xlsx
+2025-05-12 00:59:14,255 - INFO - 
+Joint1 Velocity Statistics for afonsoleite - Trial 8:
+2025-05-12 00:59:14,255 - INFO -   Traj1 - Mean Velocity: -0.2835 degrees/s
+2025-05-12 00:59:14,255 - INFO -   Traj1 - Velocity Consistency: 0.6187 degrees/s
+2025-05-12 00:59:14,255 - INFO -   Traj2 - Mean Velocity: -0.4758 degrees/s
+2025-05-12 00:59:14,255 - INFO -   Traj2 - Velocity Consistency: 1.1634 degrees/s
+2025-05-12 00:59:14,346 - INFO - 
+Joint2 Velocity Statistics for afonsoleite - Trial 8:
+2025-05-12 00:59:14,347 - INFO -   Traj1 - Mean Velocity: -0.0004 degrees/s
+2025-05-12 00:59:14,347 - INFO -   Traj1 - Velocity Consistency: 0.9138 degrees/s
+2025-05-12 00:59:14,347 - INFO -   Traj2 - Mean Velocity: -0.2613 degrees/s
+2025-05-12 00:59:14,347 - INFO -   Traj2 - Velocity Consistency: 1.4058 degrees/s
+2025-05-12 00:59:14,443 - INFO - 
+Joint3 Velocity Statistics for afonsoleite - Trial 8:
+2025-05-12 00:59:14,443 - INFO -   Traj1 - Mean Velocity: -0.0022 degrees/s
+2025-05-12 00:59:14,443 - INFO -   Traj1 - Velocity Consistency: 1.1301 degrees/s
+2025-05-12 00:59:14,443 - INFO -   Traj2 - Mean Velocity: -0.1773 degrees/s
+2025-05-12 00:59:14,443 - INFO -   Traj2 - Velocity Consistency: 1.3885 degrees/s
+2025-05-12 00:59:14,704 - INFO - 
+Processing participant 3/9: carolinamaia
+2025-05-12 00:59:14,704 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:14,704 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_1.xlsx
+2025-05-12 00:59:14,813 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 1:
+2025-05-12 00:59:14,813 - INFO -   Traj1 - Mean Velocity: 0.0030 mm/s
+2025-05-12 00:59:14,813 - INFO -   Traj1 - Velocity Consistency: 0.0022 mm/s
+2025-05-12 00:59:14,814 - INFO -   Traj2 - Mean Velocity: 0.0029 mm/s
+2025-05-12 00:59:14,814 - INFO -   Traj2 - Velocity Consistency: 0.0023 mm/s
+2025-05-12 00:59:14,906 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_1.xlsx
+2025-05-12 00:59:15,017 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 1:
+2025-05-12 00:59:15,017 - INFO -   Traj1 - Mean Velocity: -0.1879 degrees/s
+2025-05-12 00:59:15,018 - INFO -   Traj1 - Velocity Consistency: 0.4327 degrees/s
+2025-05-12 00:59:15,018 - INFO -   Traj2 - Mean Velocity: -0.2326 degrees/s
+2025-05-12 00:59:15,018 - INFO -   Traj2 - Velocity Consistency: 0.3949 degrees/s
+2025-05-12 00:59:15,122 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 1:
+2025-05-12 00:59:15,122 - INFO -   Traj1 - Mean Velocity: -0.0769 degrees/s
+2025-05-12 00:59:15,122 - INFO -   Traj1 - Velocity Consistency: 0.9341 degrees/s
+2025-05-12 00:59:15,122 - INFO -   Traj2 - Mean Velocity: -0.1797 degrees/s
+2025-05-12 00:59:15,123 - INFO -   Traj2 - Velocity Consistency: 0.8341 degrees/s
+2025-05-12 00:59:15,231 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 1:
+2025-05-12 00:59:15,232 - INFO -   Traj1 - Mean Velocity: 0.0132 degrees/s
+2025-05-12 00:59:15,232 - INFO -   Traj1 - Velocity Consistency: 0.6528 degrees/s
+2025-05-12 00:59:15,232 - INFO -   Traj2 - Mean Velocity: -0.0529 degrees/s
+2025-05-12 00:59:15,232 - INFO -   Traj2 - Velocity Consistency: 0.7430 degrees/s
+2025-05-12 00:59:15,402 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:15,403 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_2.xlsx
+2025-05-12 00:59:15,519 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 2:
+2025-05-12 00:59:15,519 - INFO -   Traj1 - Mean Velocity: 0.0038 mm/s
+2025-05-12 00:59:15,519 - INFO -   Traj1 - Velocity Consistency: 0.0029 mm/s
+2025-05-12 00:59:15,519 - INFO -   Traj2 - Mean Velocity: 0.0038 mm/s
+2025-05-12 00:59:15,519 - INFO -   Traj2 - Velocity Consistency: 0.0030 mm/s
+2025-05-12 00:59:15,611 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_2.xlsx
+2025-05-12 00:59:15,720 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 2:
+2025-05-12 00:59:15,720 - INFO -   Traj1 - Mean Velocity: -0.1275 degrees/s
+2025-05-12 00:59:15,721 - INFO -   Traj1 - Velocity Consistency: 0.4568 degrees/s
+2025-05-12 00:59:15,721 - INFO -   Traj2 - Mean Velocity: -0.2226 degrees/s
+2025-05-12 00:59:15,721 - INFO -   Traj2 - Velocity Consistency: 0.5930 degrees/s
+2025-05-12 00:59:15,815 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 2:
+2025-05-12 00:59:15,815 - INFO -   Traj1 - Mean Velocity: 0.0861 degrees/s
+2025-05-12 00:59:15,816 - INFO -   Traj1 - Velocity Consistency: 1.1503 degrees/s
+2025-05-12 00:59:15,816 - INFO -   Traj2 - Mean Velocity: -0.0757 degrees/s
+2025-05-12 00:59:15,816 - INFO -   Traj2 - Velocity Consistency: 1.0790 degrees/s
+2025-05-12 00:59:15,919 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 2:
+2025-05-12 00:59:15,919 - INFO -   Traj1 - Mean Velocity: -0.0017 degrees/s
+2025-05-12 00:59:15,919 - INFO -   Traj1 - Velocity Consistency: 0.9955 degrees/s
+2025-05-12 00:59:15,919 - INFO -   Traj2 - Mean Velocity: -0.1343 degrees/s
+2025-05-12 00:59:15,919 - INFO -   Traj2 - Velocity Consistency: 1.1579 degrees/s
+2025-05-12 00:59:16,099 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:16,099 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_3.xlsx
+2025-05-12 00:59:16,198 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 3:
+2025-05-12 00:59:16,198 - INFO -   Traj1 - Mean Velocity: 0.0039 mm/s
+2025-05-12 00:59:16,198 - INFO -   Traj1 - Velocity Consistency: 0.0028 mm/s
+2025-05-12 00:59:16,198 - INFO -   Traj2 - Mean Velocity: 0.0039 mm/s
+2025-05-12 00:59:16,198 - INFO -   Traj2 - Velocity Consistency: 0.0028 mm/s
+2025-05-12 00:59:16,292 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_3.xlsx
+2025-05-12 00:59:16,397 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 3:
+2025-05-12 00:59:16,398 - INFO -   Traj1 - Mean Velocity: -0.2587 degrees/s
+2025-05-12 00:59:16,398 - INFO -   Traj1 - Velocity Consistency: 0.4547 degrees/s
+2025-05-12 00:59:16,398 - INFO -   Traj2 - Mean Velocity: -0.2874 degrees/s
+2025-05-12 00:59:16,398 - INFO -   Traj2 - Velocity Consistency: 0.4996 degrees/s
+2025-05-12 00:59:16,503 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 3:
+2025-05-12 00:59:16,504 - INFO -   Traj1 - Mean Velocity: -0.1445 degrees/s
+2025-05-12 00:59:16,504 - INFO -   Traj1 - Velocity Consistency: 1.1697 degrees/s
+2025-05-12 00:59:16,504 - INFO -   Traj2 - Mean Velocity: -0.2476 degrees/s
+2025-05-12 00:59:16,504 - INFO -   Traj2 - Velocity Consistency: 1.0271 degrees/s
+2025-05-12 00:59:16,599 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 3:
+2025-05-12 00:59:16,599 - INFO -   Traj1 - Mean Velocity: -0.0019 degrees/s
+2025-05-12 00:59:16,599 - INFO -   Traj1 - Velocity Consistency: 0.9837 degrees/s
+2025-05-12 00:59:16,599 - INFO -   Traj2 - Mean Velocity: -0.0614 degrees/s
+2025-05-12 00:59:16,599 - INFO -   Traj2 - Velocity Consistency: 1.0979 degrees/s
+2025-05-12 00:59:16,788 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:16,788 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_4.xlsx
+2025-05-12 00:59:16,893 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 4:
+2025-05-12 00:59:16,893 - INFO -   Traj1 - Mean Velocity: 0.0043 mm/s
+2025-05-12 00:59:16,893 - INFO -   Traj1 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:16,893 - INFO -   Traj2 - Mean Velocity: 0.0043 mm/s
+2025-05-12 00:59:16,893 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:16,996 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_4.xlsx
+2025-05-12 00:59:17,098 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 4:
+2025-05-12 00:59:17,098 - INFO -   Traj1 - Mean Velocity: -0.1661 degrees/s
+2025-05-12 00:59:17,098 - INFO -   Traj1 - Velocity Consistency: 0.5675 degrees/s
+2025-05-12 00:59:17,098 - INFO -   Traj2 - Mean Velocity: -0.2548 degrees/s
+2025-05-12 00:59:17,098 - INFO -   Traj2 - Velocity Consistency: 0.6664 degrees/s
+2025-05-12 00:59:17,194 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 4:
+2025-05-12 00:59:17,194 - INFO -   Traj1 - Mean Velocity: 0.0301 degrees/s
+2025-05-12 00:59:17,195 - INFO -   Traj1 - Velocity Consistency: 1.4300 degrees/s
+2025-05-12 00:59:17,195 - INFO -   Traj2 - Mean Velocity: -0.1246 degrees/s
+2025-05-12 00:59:17,195 - INFO -   Traj2 - Velocity Consistency: 1.3051 degrees/s
+2025-05-12 00:59:17,299 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 4:
+2025-05-12 00:59:17,299 - INFO -   Traj1 - Mean Velocity: -0.0054 degrees/s
+2025-05-12 00:59:17,299 - INFO -   Traj1 - Velocity Consistency: 1.2306 degrees/s
+2025-05-12 00:59:17,299 - INFO -   Traj2 - Mean Velocity: -0.1254 degrees/s
+2025-05-12 00:59:17,299 - INFO -   Traj2 - Velocity Consistency: 1.4316 degrees/s
+2025-05-12 00:59:17,507 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:17,507 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_5.xlsx
+2025-05-12 00:59:17,612 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 5:
+2025-05-12 00:59:17,612 - INFO -   Traj1 - Mean Velocity: 0.0036 mm/s
+2025-05-12 00:59:17,612 - INFO -   Traj1 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:17,612 - INFO -   Traj2 - Mean Velocity: 0.0036 mm/s
+2025-05-12 00:59:17,612 - INFO -   Traj2 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:17,714 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_5.xlsx
+2025-05-12 00:59:17,817 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 5:
+2025-05-12 00:59:17,818 - INFO -   Traj1 - Mean Velocity: -0.3038 degrees/s
+2025-05-12 00:59:17,818 - INFO -   Traj1 - Velocity Consistency: 0.4396 degrees/s
+2025-05-12 00:59:17,818 - INFO -   Traj2 - Mean Velocity: -0.3656 degrees/s
+2025-05-12 00:59:17,818 - INFO -   Traj2 - Velocity Consistency: 0.5494 degrees/s
+2025-05-12 00:59:17,914 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 5:
+2025-05-12 00:59:17,914 - INFO -   Traj1 - Mean Velocity: -0.1474 degrees/s
+2025-05-12 00:59:17,914 - INFO -   Traj1 - Velocity Consistency: 1.0782 degrees/s
+2025-05-12 00:59:17,914 - INFO -   Traj2 - Mean Velocity: -0.2841 degrees/s
+2025-05-12 00:59:17,915 - INFO -   Traj2 - Velocity Consistency: 1.0256 degrees/s
+2025-05-12 00:59:18,008 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 5:
+2025-05-12 00:59:18,008 - INFO -   Traj1 - Mean Velocity: 0.0087 degrees/s
+2025-05-12 00:59:18,008 - INFO -   Traj1 - Velocity Consistency: 1.0252 degrees/s
+2025-05-12 00:59:18,008 - INFO -   Traj2 - Mean Velocity: -0.0783 degrees/s
+2025-05-12 00:59:18,008 - INFO -   Traj2 - Velocity Consistency: 1.1975 degrees/s
+2025-05-12 00:59:21,804 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:21,804 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_6.xlsx
+2025-05-12 00:59:21,911 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 6:
+2025-05-12 00:59:21,911 - INFO -   Traj1 - Mean Velocity: 0.0051 mm/s
+2025-05-12 00:59:21,911 - INFO -   Traj1 - Velocity Consistency: 0.0038 mm/s
+2025-05-12 00:59:21,911 - INFO -   Traj2 - Mean Velocity: 0.0051 mm/s
+2025-05-12 00:59:21,911 - INFO -   Traj2 - Velocity Consistency: 0.0038 mm/s
+2025-05-12 00:59:22,017 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_6.xlsx
+2025-05-12 00:59:22,118 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 6:
+2025-05-12 00:59:22,118 - INFO -   Traj1 - Mean Velocity: -0.2019 degrees/s
+2025-05-12 00:59:22,118 - INFO -   Traj1 - Velocity Consistency: 0.6048 degrees/s
+2025-05-12 00:59:22,118 - INFO -   Traj2 - Mean Velocity: -0.3214 degrees/s
+2025-05-12 00:59:22,118 - INFO -   Traj2 - Velocity Consistency: 0.8552 degrees/s
+2025-05-12 00:59:22,214 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 6:
+2025-05-12 00:59:22,214 - INFO -   Traj1 - Mean Velocity: 0.0637 degrees/s
+2025-05-12 00:59:22,214 - INFO -   Traj1 - Velocity Consistency: 1.5335 degrees/s
+2025-05-12 00:59:22,214 - INFO -   Traj2 - Mean Velocity: -0.1311 degrees/s
+2025-05-12 00:59:22,215 - INFO -   Traj2 - Velocity Consistency: 1.4463 degrees/s
+2025-05-12 00:59:22,313 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 6:
+2025-05-12 00:59:22,313 - INFO -   Traj1 - Mean Velocity: -0.0264 degrees/s
+2025-05-12 00:59:22,313 - INFO -   Traj1 - Velocity Consistency: 1.4188 degrees/s
+2025-05-12 00:59:22,313 - INFO -   Traj2 - Mean Velocity: -0.1975 degrees/s
+2025-05-12 00:59:22,313 - INFO -   Traj2 - Velocity Consistency: 1.7448 degrees/s
+2025-05-12 00:59:22,524 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:22,525 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_7.xlsx
+2025-05-12 00:59:22,627 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 7:
+2025-05-12 00:59:22,627 - INFO -   Traj1 - Mean Velocity: 0.0049 mm/s
+2025-05-12 00:59:22,627 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:22,627 - INFO -   Traj2 - Mean Velocity: 0.0049 mm/s
+2025-05-12 00:59:22,627 - INFO -   Traj2 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:22,734 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_7.xlsx
+2025-05-12 00:59:22,838 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 7:
+2025-05-12 00:59:22,838 - INFO -   Traj1 - Mean Velocity: -0.3425 degrees/s
+2025-05-12 00:59:22,838 - INFO -   Traj1 - Velocity Consistency: 0.4929 degrees/s
+2025-05-12 00:59:22,838 - INFO -   Traj2 - Mean Velocity: -0.4725 degrees/s
+2025-05-12 00:59:22,839 - INFO -   Traj2 - Velocity Consistency: 0.8550 degrees/s
+2025-05-12 00:59:22,944 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 7:
+2025-05-12 00:59:22,945 - INFO -   Traj1 - Mean Velocity: -0.1024 degrees/s
+2025-05-12 00:59:22,945 - INFO -   Traj1 - Velocity Consistency: 1.4281 degrees/s
+2025-05-12 00:59:22,945 - INFO -   Traj2 - Mean Velocity: -0.3055 degrees/s
+2025-05-12 00:59:22,945 - INFO -   Traj2 - Velocity Consistency: 1.2608 degrees/s
+2025-05-12 00:59:23,052 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 7:
+2025-05-12 00:59:23,052 - INFO -   Traj1 - Mean Velocity: 0.0160 degrees/s
+2025-05-12 00:59:23,053 - INFO -   Traj1 - Velocity Consistency: 1.3543 degrees/s
+2025-05-12 00:59:23,053 - INFO -   Traj2 - Mean Velocity: -0.1275 degrees/s
+2025-05-12 00:59:23,053 - INFO -   Traj2 - Velocity Consistency: 1.7037 degrees/s
+2025-05-12 00:59:23,297 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:23,297 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ee_error_8.xlsx
+2025-05-12 00:59:23,429 - INFO - 
+End-Effector Velocity Statistics for carolinamaia - Trial 8:
+2025-05-12 00:59:23,429 - INFO -   Traj1 - Mean Velocity: 0.0067 mm/s
+2025-05-12 00:59:23,429 - INFO -   Traj1 - Velocity Consistency: 0.0053 mm/s
+2025-05-12 00:59:23,429 - INFO -   Traj2 - Mean Velocity: 0.0067 mm/s
+2025-05-12 00:59:23,429 - INFO -   Traj2 - Velocity Consistency: 0.0054 mm/s
+2025-05-12 00:59:23,542 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/carolinamaia/results/ang_error_8.xlsx
+2025-05-12 00:59:23,639 - INFO - 
+Joint1 Velocity Statistics for carolinamaia - Trial 8:
+2025-05-12 00:59:23,639 - INFO -   Traj1 - Mean Velocity: -0.2353 degrees/s
+2025-05-12 00:59:23,639 - INFO -   Traj1 - Velocity Consistency: 0.6265 degrees/s
+2025-05-12 00:59:23,640 - INFO -   Traj2 - Mean Velocity: -0.4129 degrees/s
+2025-05-12 00:59:23,640 - INFO -   Traj2 - Velocity Consistency: 1.2896 degrees/s
+2025-05-12 00:59:23,737 - INFO - 
+Joint2 Velocity Statistics for carolinamaia - Trial 8:
+2025-05-12 00:59:23,737 - INFO -   Traj1 - Mean Velocity: 0.0681 degrees/s
+2025-05-12 00:59:23,738 - INFO -   Traj1 - Velocity Consistency: 1.9104 degrees/s
+2025-05-12 00:59:23,738 - INFO -   Traj2 - Mean Velocity: -0.1833 degrees/s
+2025-05-12 00:59:23,738 - INFO -   Traj2 - Velocity Consistency: 1.7011 degrees/s
+2025-05-12 00:59:23,830 - INFO - 
+Joint3 Velocity Statistics for carolinamaia - Trial 8:
+2025-05-12 00:59:23,831 - INFO -   Traj1 - Mean Velocity: 0.0362 degrees/s
+2025-05-12 00:59:23,831 - INFO -   Traj1 - Velocity Consistency: 1.9050 degrees/s
+2025-05-12 00:59:23,831 - INFO -   Traj2 - Mean Velocity: -0.1782 degrees/s
+2025-05-12 00:59:23,831 - INFO -   Traj2 - Velocity Consistency: 2.4283 degrees/s
+2025-05-12 00:59:24,154 - INFO - 
+Processing participant 4/9: catarina
+2025-05-12 00:59:24,155 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:24,155 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_1.xlsx
+2025-05-12 00:59:24,254 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 1:
+2025-05-12 00:59:24,254 - INFO -   Traj1 - Mean Velocity: 0.0028 mm/s
+2025-05-12 00:59:24,254 - INFO -   Traj1 - Velocity Consistency: 0.0021 mm/s
+2025-05-12 00:59:24,254 - INFO -   Traj2 - Mean Velocity: 0.0028 mm/s
+2025-05-12 00:59:24,254 - INFO -   Traj2 - Velocity Consistency: 0.0021 mm/s
+2025-05-12 00:59:24,364 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_1.xlsx
+2025-05-12 00:59:24,467 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 1:
+2025-05-12 00:59:24,467 - INFO -   Traj1 - Mean Velocity: -0.2003 degrees/s
+2025-05-12 00:59:24,467 - INFO -   Traj1 - Velocity Consistency: 0.5146 degrees/s
+2025-05-12 00:59:24,467 - INFO -   Traj2 - Mean Velocity: -0.2304 degrees/s
+2025-05-12 00:59:24,467 - INFO -   Traj2 - Velocity Consistency: 0.5234 degrees/s
+2025-05-12 00:59:24,568 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 1:
+2025-05-12 00:59:24,569 - INFO -   Traj1 - Mean Velocity: 0.0042 degrees/s
+2025-05-12 00:59:24,569 - INFO -   Traj1 - Velocity Consistency: 0.3702 degrees/s
+2025-05-12 00:59:24,569 - INFO -   Traj2 - Mean Velocity: -0.1167 degrees/s
+2025-05-12 00:59:24,569 - INFO -   Traj2 - Velocity Consistency: 0.5267 degrees/s
+2025-05-12 00:59:24,672 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 1:
+2025-05-12 00:59:24,672 - INFO -   Traj1 - Mean Velocity: -0.0489 degrees/s
+2025-05-12 00:59:24,672 - INFO -   Traj1 - Velocity Consistency: 0.1402 degrees/s
+2025-05-12 00:59:24,672 - INFO -   Traj2 - Mean Velocity: -0.1237 degrees/s
+2025-05-12 00:59:24,672 - INFO -   Traj2 - Velocity Consistency: 0.1652 degrees/s
+2025-05-12 00:59:24,921 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:24,921 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_2.xlsx
+2025-05-12 00:59:25,032 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 2:
+2025-05-12 00:59:25,032 - INFO -   Traj1 - Mean Velocity: 0.0033 mm/s
+2025-05-12 00:59:25,032 - INFO -   Traj1 - Velocity Consistency: 0.0025 mm/s
+2025-05-12 00:59:25,032 - INFO -   Traj2 - Mean Velocity: 0.0033 mm/s
+2025-05-12 00:59:25,032 - INFO -   Traj2 - Velocity Consistency: 0.0025 mm/s
+2025-05-12 00:59:25,152 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_2.xlsx
+2025-05-12 00:59:25,254 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 2:
+2025-05-12 00:59:25,254 - INFO -   Traj1 - Mean Velocity: 0.0632 degrees/s
+2025-05-12 00:59:25,254 - INFO -   Traj1 - Velocity Consistency: 0.6678 degrees/s
+2025-05-12 00:59:25,254 - INFO -   Traj2 - Mean Velocity: 0.0338 degrees/s
+2025-05-12 00:59:25,254 - INFO -   Traj2 - Velocity Consistency: 0.6290 degrees/s
+2025-05-12 00:59:25,352 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 2:
+2025-05-12 00:59:25,352 - INFO -   Traj1 - Mean Velocity: 0.2419 degrees/s
+2025-05-12 00:59:25,353 - INFO -   Traj1 - Velocity Consistency: 0.5845 degrees/s
+2025-05-12 00:59:25,353 - INFO -   Traj2 - Mean Velocity: 0.1892 degrees/s
+2025-05-12 00:59:25,353 - INFO -   Traj2 - Velocity Consistency: 0.6960 degrees/s
+2025-05-12 00:59:25,457 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 2:
+2025-05-12 00:59:25,457 - INFO -   Traj1 - Mean Velocity: -0.0388 degrees/s
+2025-05-12 00:59:25,457 - INFO -   Traj1 - Velocity Consistency: 0.0900 degrees/s
+2025-05-12 00:59:25,457 - INFO -   Traj2 - Mean Velocity: -0.0779 degrees/s
+2025-05-12 00:59:25,457 - INFO -   Traj2 - Velocity Consistency: 0.1603 degrees/s
+2025-05-12 00:59:25,695 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:25,695 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_3.xlsx
+2025-05-12 00:59:25,799 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 3:
+2025-05-12 00:59:25,800 - INFO -   Traj1 - Mean Velocity: 0.0039 mm/s
+2025-05-12 00:59:25,800 - INFO -   Traj1 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:25,800 - INFO -   Traj2 - Mean Velocity: 0.0038 mm/s
+2025-05-12 00:59:25,800 - INFO -   Traj2 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:25,920 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_3.xlsx
+2025-05-12 00:59:26,017 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 3:
+2025-05-12 00:59:26,017 - INFO -   Traj1 - Mean Velocity: -0.3330 degrees/s
+2025-05-12 00:59:26,017 - INFO -   Traj1 - Velocity Consistency: 0.7562 degrees/s
+2025-05-12 00:59:26,017 - INFO -   Traj2 - Mean Velocity: -0.3555 degrees/s
+2025-05-12 00:59:26,017 - INFO -   Traj2 - Velocity Consistency: 0.6951 degrees/s
+2025-05-12 00:59:26,128 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 3:
+2025-05-12 00:59:26,128 - INFO -   Traj1 - Mean Velocity: -0.1084 degrees/s
+2025-05-12 00:59:26,128 - INFO -   Traj1 - Velocity Consistency: 0.5472 degrees/s
+2025-05-12 00:59:26,128 - INFO -   Traj2 - Mean Velocity: -0.2589 degrees/s
+2025-05-12 00:59:26,128 - INFO -   Traj2 - Velocity Consistency: 0.7185 degrees/s
+2025-05-12 00:59:26,226 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 3:
+2025-05-12 00:59:26,226 - INFO -   Traj1 - Mean Velocity: -0.0767 degrees/s
+2025-05-12 00:59:26,226 - INFO -   Traj1 - Velocity Consistency: 0.1445 degrees/s
+2025-05-12 00:59:26,226 - INFO -   Traj2 - Mean Velocity: -0.1643 degrees/s
+2025-05-12 00:59:26,226 - INFO -   Traj2 - Velocity Consistency: 0.1914 degrees/s
+2025-05-12 00:59:26,495 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:26,495 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_4.xlsx
+2025-05-12 00:59:26,622 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 4:
+2025-05-12 00:59:26,623 - INFO -   Traj1 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:26,623 - INFO -   Traj1 - Velocity Consistency: 0.0032 mm/s
+2025-05-12 00:59:26,623 - INFO -   Traj2 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:26,623 - INFO -   Traj2 - Velocity Consistency: 0.0032 mm/s
+2025-05-12 00:59:26,754 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_4.xlsx
+2025-05-12 00:59:26,859 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 4:
+2025-05-12 00:59:26,860 - INFO -   Traj1 - Mean Velocity: -0.1766 degrees/s
+2025-05-12 00:59:26,860 - INFO -   Traj1 - Velocity Consistency: 0.8591 degrees/s
+2025-05-12 00:59:26,860 - INFO -   Traj2 - Mean Velocity: -0.2413 degrees/s
+2025-05-12 00:59:26,860 - INFO -   Traj2 - Velocity Consistency: 0.9081 degrees/s
+2025-05-12 00:59:26,961 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 4:
+2025-05-12 00:59:26,961 - INFO -   Traj1 - Mean Velocity: 0.1174 degrees/s
+2025-05-12 00:59:26,961 - INFO -   Traj1 - Velocity Consistency: 0.8194 degrees/s
+2025-05-12 00:59:26,961 - INFO -   Traj2 - Mean Velocity: -0.0522 degrees/s
+2025-05-12 00:59:26,961 - INFO -   Traj2 - Velocity Consistency: 1.0461 degrees/s
+2025-05-12 00:59:27,060 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 4:
+2025-05-12 00:59:27,061 - INFO -   Traj1 - Mean Velocity: -0.0659 degrees/s
+2025-05-12 00:59:27,061 - INFO -   Traj1 - Velocity Consistency: 0.5320 degrees/s
+2025-05-12 00:59:27,061 - INFO -   Traj2 - Mean Velocity: -0.1805 degrees/s
+2025-05-12 00:59:27,061 - INFO -   Traj2 - Velocity Consistency: 0.4694 degrees/s
+2025-05-12 00:59:27,327 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:27,328 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_5.xlsx
+2025-05-12 00:59:27,444 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 5:
+2025-05-12 00:59:27,444 - INFO -   Traj1 - Mean Velocity: 0.0041 mm/s
+2025-05-12 00:59:27,444 - INFO -   Traj1 - Velocity Consistency: 0.0029 mm/s
+2025-05-12 00:59:27,444 - INFO -   Traj2 - Mean Velocity: 0.0040 mm/s
+2025-05-12 00:59:27,444 - INFO -   Traj2 - Velocity Consistency: 0.0029 mm/s
+2025-05-12 00:59:27,593 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_5.xlsx
+2025-05-12 00:59:27,709 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 5:
+2025-05-12 00:59:27,709 - INFO -   Traj1 - Mean Velocity: -0.3792 degrees/s
+2025-05-12 00:59:27,709 - INFO -   Traj1 - Velocity Consistency: 0.7160 degrees/s
+2025-05-12 00:59:27,709 - INFO -   Traj2 - Mean Velocity: -0.4287 degrees/s
+2025-05-12 00:59:27,709 - INFO -   Traj2 - Velocity Consistency: 0.7335 degrees/s
+2025-05-12 00:59:27,811 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 5:
+2025-05-12 00:59:27,811 - INFO -   Traj1 - Mean Velocity: -0.0822 degrees/s
+2025-05-12 00:59:27,811 - INFO -   Traj1 - Velocity Consistency: 0.5516 degrees/s
+2025-05-12 00:59:27,811 - INFO -   Traj2 - Mean Velocity: -0.2781 degrees/s
+2025-05-12 00:59:27,811 - INFO -   Traj2 - Velocity Consistency: 0.7386 degrees/s
+2025-05-12 00:59:27,914 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 5:
+2025-05-12 00:59:27,914 - INFO -   Traj1 - Mean Velocity: -0.0588 degrees/s
+2025-05-12 00:59:27,914 - INFO -   Traj1 - Velocity Consistency: 0.4543 degrees/s
+2025-05-12 00:59:27,915 - INFO -   Traj2 - Mean Velocity: -0.1794 degrees/s
+2025-05-12 00:59:27,915 - INFO -   Traj2 - Velocity Consistency: 0.3990 degrees/s
+2025-05-12 00:59:28,172 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:28,172 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_6.xlsx
+2025-05-12 00:59:28,288 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 6:
+2025-05-12 00:59:28,288 - INFO -   Traj1 - Mean Velocity: 0.0049 mm/s
+2025-05-12 00:59:28,288 - INFO -   Traj1 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 00:59:28,288 - INFO -   Traj2 - Mean Velocity: 0.0048 mm/s
+2025-05-12 00:59:28,288 - INFO -   Traj2 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 00:59:28,465 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_6.xlsx
+2025-05-12 00:59:28,587 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 6:
+2025-05-12 00:59:28,587 - INFO -   Traj1 - Mean Velocity: -0.2455 degrees/s
+2025-05-12 00:59:28,587 - INFO -   Traj1 - Velocity Consistency: 0.9294 degrees/s
+2025-05-12 00:59:28,587 - INFO -   Traj2 - Mean Velocity: -0.3380 degrees/s
+2025-05-12 00:59:28,587 - INFO -   Traj2 - Velocity Consistency: 0.9244 degrees/s
+2025-05-12 00:59:28,687 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 6:
+2025-05-12 00:59:28,687 - INFO -   Traj1 - Mean Velocity: 0.1319 degrees/s
+2025-05-12 00:59:28,687 - INFO -   Traj1 - Velocity Consistency: 0.7968 degrees/s
+2025-05-12 00:59:28,687 - INFO -   Traj2 - Mean Velocity: -0.0958 degrees/s
+2025-05-12 00:59:28,687 - INFO -   Traj2 - Velocity Consistency: 1.0151 degrees/s
+2025-05-12 00:59:28,788 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 6:
+2025-05-12 00:59:28,788 - INFO -   Traj1 - Mean Velocity: -0.0941 degrees/s
+2025-05-12 00:59:28,789 - INFO -   Traj1 - Velocity Consistency: 0.3892 degrees/s
+2025-05-12 00:59:28,789 - INFO -   Traj2 - Mean Velocity: -0.2444 degrees/s
+2025-05-12 00:59:28,789 - INFO -   Traj2 - Velocity Consistency: 0.3638 degrees/s
+2025-05-12 00:59:29,052 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:29,052 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_7.xlsx
+2025-05-12 00:59:29,166 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 7:
+2025-05-12 00:59:29,167 - INFO -   Traj1 - Mean Velocity: 0.0049 mm/s
+2025-05-12 00:59:29,167 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:29,167 - INFO -   Traj2 - Mean Velocity: 0.0049 mm/s
+2025-05-12 00:59:29,167 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:29,316 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_7.xlsx
+2025-05-12 00:59:29,434 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 7:
+2025-05-12 00:59:29,434 - INFO -   Traj1 - Mean Velocity: -0.4675 degrees/s
+2025-05-12 00:59:29,434 - INFO -   Traj1 - Velocity Consistency: 0.8513 degrees/s
+2025-05-12 00:59:29,434 - INFO -   Traj2 - Mean Velocity: -0.5694 degrees/s
+2025-05-12 00:59:29,434 - INFO -   Traj2 - Velocity Consistency: 0.9708 degrees/s
+2025-05-12 00:59:29,539 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 7:
+2025-05-12 00:59:29,539 - INFO -   Traj1 - Mean Velocity: -0.0568 degrees/s
+2025-05-12 00:59:29,539 - INFO -   Traj1 - Velocity Consistency: 0.6273 degrees/s
+2025-05-12 00:59:29,539 - INFO -   Traj2 - Mean Velocity: -0.3321 degrees/s
+2025-05-12 00:59:29,539 - INFO -   Traj2 - Velocity Consistency: 0.9260 degrees/s
+2025-05-12 00:59:29,635 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 7:
+2025-05-12 00:59:29,636 - INFO -   Traj1 - Mean Velocity: -0.1014 degrees/s
+2025-05-12 00:59:29,636 - INFO -   Traj1 - Velocity Consistency: 0.6223 degrees/s
+2025-05-12 00:59:29,636 - INFO -   Traj2 - Mean Velocity: -0.2662 degrees/s
+2025-05-12 00:59:29,636 - INFO -   Traj2 - Velocity Consistency: 0.6432 degrees/s
+2025-05-12 00:59:29,921 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:29,921 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ee_error_8.xlsx
+2025-05-12 00:59:30,031 - INFO - 
+End-Effector Velocity Statistics for catarina - Trial 8:
+2025-05-12 00:59:30,031 - INFO -   Traj1 - Mean Velocity: 0.0066 mm/s
+2025-05-12 00:59:30,031 - INFO -   Traj1 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:30,031 - INFO -   Traj2 - Mean Velocity: 0.0066 mm/s
+2025-05-12 00:59:30,031 - INFO -   Traj2 - Velocity Consistency: 0.0038 mm/s
+2025-05-12 00:59:30,188 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/catarina/results/ang_error_8.xlsx
+2025-05-12 00:59:30,298 - INFO - 
+Joint1 Velocity Statistics for catarina - Trial 8:
+2025-05-12 00:59:30,298 - INFO -   Traj1 - Mean Velocity: -0.2995 degrees/s
+2025-05-12 00:59:30,298 - INFO -   Traj1 - Velocity Consistency: 1.0724 degrees/s
+2025-05-12 00:59:30,298 - INFO -   Traj2 - Mean Velocity: -0.4110 degrees/s
+2025-05-12 00:59:30,298 - INFO -   Traj2 - Velocity Consistency: 1.3767 degrees/s
+2025-05-12 00:59:30,392 - INFO - 
+Joint2 Velocity Statistics for catarina - Trial 8:
+2025-05-12 00:59:30,392 - INFO -   Traj1 - Mean Velocity: 0.0898 degrees/s
+2025-05-12 00:59:30,392 - INFO -   Traj1 - Velocity Consistency: 0.9312 degrees/s
+2025-05-12 00:59:30,392 - INFO -   Traj2 - Mean Velocity: -0.1641 degrees/s
+2025-05-12 00:59:30,392 - INFO -   Traj2 - Velocity Consistency: 1.3432 degrees/s
+2025-05-12 00:59:30,497 - INFO - 
+Joint3 Velocity Statistics for catarina - Trial 8:
+2025-05-12 00:59:30,497 - INFO -   Traj1 - Mean Velocity: -0.0932 degrees/s
+2025-05-12 00:59:30,497 - INFO -   Traj1 - Velocity Consistency: 0.7544 degrees/s
+2025-05-12 00:59:30,497 - INFO -   Traj2 - Mean Velocity: -0.2636 degrees/s
+2025-05-12 00:59:30,497 - INFO -   Traj2 - Velocity Consistency: 0.7474 degrees/s
+2025-05-12 00:59:30,928 - INFO - 
+Processing participant 5/9: diogo
+2025-05-12 00:59:30,928 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:30,928 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_1.xlsx
+2025-05-12 00:59:31,034 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 1:
+2025-05-12 00:59:31,034 - INFO -   Traj1 - Mean Velocity: 0.0029 mm/s
+2025-05-12 00:59:31,034 - INFO -   Traj1 - Velocity Consistency: 0.0025 mm/s
+2025-05-12 00:59:31,034 - INFO -   Traj2 - Mean Velocity: 0.0028 mm/s
+2025-05-12 00:59:31,034 - INFO -   Traj2 - Velocity Consistency: 0.0024 mm/s
+2025-05-12 00:59:31,171 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_1.xlsx
+2025-05-12 00:59:31,278 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 1:
+2025-05-12 00:59:31,278 - INFO -   Traj1 - Mean Velocity: -0.2108 degrees/s
+2025-05-12 00:59:31,278 - INFO -   Traj1 - Velocity Consistency: 0.3269 degrees/s
+2025-05-12 00:59:31,278 - INFO -   Traj2 - Mean Velocity: -0.3149 degrees/s
+2025-05-12 00:59:31,278 - INFO -   Traj2 - Velocity Consistency: 0.5230 degrees/s
+2025-05-12 00:59:31,375 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 1:
+2025-05-12 00:59:31,375 - INFO -   Traj1 - Mean Velocity: -0.0767 degrees/s
+2025-05-12 00:59:31,375 - INFO -   Traj1 - Velocity Consistency: 0.3273 degrees/s
+2025-05-12 00:59:31,375 - INFO -   Traj2 - Mean Velocity: -0.2470 degrees/s
+2025-05-12 00:59:31,375 - INFO -   Traj2 - Velocity Consistency: 0.5733 degrees/s
+2025-05-12 00:59:31,483 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 1:
+2025-05-12 00:59:31,483 - INFO -   Traj1 - Mean Velocity: 0.0658 degrees/s
+2025-05-12 00:59:31,483 - INFO -   Traj1 - Velocity Consistency: 0.4234 degrees/s
+2025-05-12 00:59:31,483 - INFO -   Traj2 - Mean Velocity: -0.0576 degrees/s
+2025-05-12 00:59:31,483 - INFO -   Traj2 - Velocity Consistency: 0.2660 degrees/s
+2025-05-12 00:59:31,774 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:31,774 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_2.xlsx
+2025-05-12 00:59:31,888 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 2:
+2025-05-12 00:59:31,888 - INFO -   Traj1 - Mean Velocity: 0.0047 mm/s
+2025-05-12 00:59:31,888 - INFO -   Traj1 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 00:59:31,888 - INFO -   Traj2 - Mean Velocity: 0.0046 mm/s
+2025-05-12 00:59:31,888 - INFO -   Traj2 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 00:59:32,038 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_2.xlsx
+2025-05-12 00:59:32,156 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 2:
+2025-05-12 00:59:32,156 - INFO -   Traj1 - Mean Velocity: -0.1171 degrees/s
+2025-05-12 00:59:32,156 - INFO -   Traj1 - Velocity Consistency: 0.5696 degrees/s
+2025-05-12 00:59:32,156 - INFO -   Traj2 - Mean Velocity: -0.1873 degrees/s
+2025-05-12 00:59:32,156 - INFO -   Traj2 - Velocity Consistency: 0.8540 degrees/s
+2025-05-12 00:59:32,265 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 2:
+2025-05-12 00:59:32,266 - INFO -   Traj1 - Mean Velocity: 0.0163 degrees/s
+2025-05-12 00:59:32,266 - INFO -   Traj1 - Velocity Consistency: 0.7807 degrees/s
+2025-05-12 00:59:32,266 - INFO -   Traj2 - Mean Velocity: -0.1041 degrees/s
+2025-05-12 00:59:32,266 - INFO -   Traj2 - Velocity Consistency: 1.1100 degrees/s
+2025-05-12 00:59:32,388 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 2:
+2025-05-12 00:59:32,388 - INFO -   Traj1 - Mean Velocity: 0.0291 degrees/s
+2025-05-12 00:59:32,388 - INFO -   Traj1 - Velocity Consistency: 0.7119 degrees/s
+2025-05-12 00:59:32,388 - INFO -   Traj2 - Mean Velocity: -0.0585 degrees/s
+2025-05-12 00:59:32,388 - INFO -   Traj2 - Velocity Consistency: 0.5174 degrees/s
+2025-05-12 00:59:32,705 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:32,705 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_3.xlsx
+2025-05-12 00:59:32,815 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 3:
+2025-05-12 00:59:32,815 - INFO -   Traj1 - Mean Velocity: 0.0043 mm/s
+2025-05-12 00:59:32,816 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:32,816 - INFO -   Traj2 - Mean Velocity: 0.0042 mm/s
+2025-05-12 00:59:32,816 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:32,967 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_3.xlsx
+2025-05-12 00:59:33,081 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 3:
+2025-05-12 00:59:33,082 - INFO -   Traj1 - Mean Velocity: -0.2831 degrees/s
+2025-05-12 00:59:33,082 - INFO -   Traj1 - Velocity Consistency: 0.5536 degrees/s
+2025-05-12 00:59:33,082 - INFO -   Traj2 - Mean Velocity: -0.3992 degrees/s
+2025-05-12 00:59:33,082 - INFO -   Traj2 - Velocity Consistency: 0.8901 degrees/s
+2025-05-12 00:59:33,187 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 3:
+2025-05-12 00:59:33,187 - INFO -   Traj1 - Mean Velocity: -0.1682 degrees/s
+2025-05-12 00:59:33,187 - INFO -   Traj1 - Velocity Consistency: 0.6854 degrees/s
+2025-05-12 00:59:33,187 - INFO -   Traj2 - Mean Velocity: -0.3675 degrees/s
+2025-05-12 00:59:33,188 - INFO -   Traj2 - Velocity Consistency: 1.0891 degrees/s
+2025-05-12 00:59:33,293 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 3:
+2025-05-12 00:59:33,293 - INFO -   Traj1 - Mean Velocity: 0.0641 degrees/s
+2025-05-12 00:59:33,293 - INFO -   Traj1 - Velocity Consistency: 0.7883 degrees/s
+2025-05-12 00:59:33,293 - INFO -   Traj2 - Mean Velocity: -0.0793 degrees/s
+2025-05-12 00:59:33,294 - INFO -   Traj2 - Velocity Consistency: 0.6165 degrees/s
+2025-05-12 00:59:33,591 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:33,591 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_4.xlsx
+2025-05-12 00:59:33,726 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 4:
+2025-05-12 00:59:33,726 - INFO -   Traj1 - Mean Velocity: 0.0055 mm/s
+2025-05-12 00:59:33,726 - INFO -   Traj1 - Velocity Consistency: 0.0032 mm/s
+2025-05-12 00:59:33,726 - INFO -   Traj2 - Mean Velocity: 0.0054 mm/s
+2025-05-12 00:59:33,726 - INFO -   Traj2 - Velocity Consistency: 0.0031 mm/s
+2025-05-12 00:59:33,903 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_4.xlsx
+2025-05-12 00:59:34,025 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 4:
+2025-05-12 00:59:34,025 - INFO -   Traj1 - Mean Velocity: -0.2114 degrees/s
+2025-05-12 00:59:34,026 - INFO -   Traj1 - Velocity Consistency: 0.5163 degrees/s
+2025-05-12 00:59:34,026 - INFO -   Traj2 - Mean Velocity: -0.3490 degrees/s
+2025-05-12 00:59:34,026 - INFO -   Traj2 - Velocity Consistency: 0.8271 degrees/s
+2025-05-12 00:59:34,130 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 4:
+2025-05-12 00:59:34,131 - INFO -   Traj1 - Mean Velocity: -0.0252 degrees/s
+2025-05-12 00:59:34,131 - INFO -   Traj1 - Velocity Consistency: 0.9034 degrees/s
+2025-05-12 00:59:34,131 - INFO -   Traj2 - Mean Velocity: -0.2386 degrees/s
+2025-05-12 00:59:34,131 - INFO -   Traj2 - Velocity Consistency: 1.1795 degrees/s
+2025-05-12 00:59:34,243 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 4:
+2025-05-12 00:59:34,244 - INFO -   Traj1 - Mean Velocity: 0.0588 degrees/s
+2025-05-12 00:59:34,244 - INFO -   Traj1 - Velocity Consistency: 0.9147 degrees/s
+2025-05-12 00:59:34,244 - INFO -   Traj2 - Mean Velocity: -0.0918 degrees/s
+2025-05-12 00:59:34,244 - INFO -   Traj2 - Velocity Consistency: 0.8550 degrees/s
+2025-05-12 00:59:34,591 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:34,592 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_5.xlsx
+2025-05-12 00:59:34,705 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 5:
+2025-05-12 00:59:34,705 - INFO -   Traj1 - Mean Velocity: 0.0052 mm/s
+2025-05-12 00:59:34,705 - INFO -   Traj1 - Velocity Consistency: 0.0050 mm/s
+2025-05-12 00:59:34,705 - INFO -   Traj2 - Mean Velocity: 0.0052 mm/s
+2025-05-12 00:59:34,705 - INFO -   Traj2 - Velocity Consistency: 0.0049 mm/s
+2025-05-12 00:59:34,857 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_5.xlsx
+2025-05-12 00:59:34,961 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 5:
+2025-05-12 00:59:34,962 - INFO -   Traj1 - Mean Velocity: -0.3686 degrees/s
+2025-05-12 00:59:34,962 - INFO -   Traj1 - Velocity Consistency: 0.5608 degrees/s
+2025-05-12 00:59:34,962 - INFO -   Traj2 - Mean Velocity: -0.5418 degrees/s
+2025-05-12 00:59:34,962 - INFO -   Traj2 - Velocity Consistency: 0.9989 degrees/s
+2025-05-12 00:59:35,064 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 5:
+2025-05-12 00:59:35,065 - INFO -   Traj1 - Mean Velocity: -0.1984 degrees/s
+2025-05-12 00:59:35,065 - INFO -   Traj1 - Velocity Consistency: 0.9265 degrees/s
+2025-05-12 00:59:35,065 - INFO -   Traj2 - Mean Velocity: -0.4692 degrees/s
+2025-05-12 00:59:35,065 - INFO -   Traj2 - Velocity Consistency: 1.3482 degrees/s
+2025-05-12 00:59:35,161 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 5:
+2025-05-12 00:59:35,162 - INFO -   Traj1 - Mean Velocity: 0.0673 degrees/s
+2025-05-12 00:59:35,162 - INFO -   Traj1 - Velocity Consistency: 1.2748 degrees/s
+2025-05-12 00:59:35,162 - INFO -   Traj2 - Mean Velocity: -0.1204 degrees/s
+2025-05-12 00:59:35,162 - INFO -   Traj2 - Velocity Consistency: 1.2851 degrees/s
+2025-05-12 00:59:35,466 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:35,467 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_6.xlsx
+2025-05-12 00:59:35,574 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 6:
+2025-05-12 00:59:35,575 - INFO -   Traj1 - Mean Velocity: 0.0055 mm/s
+2025-05-12 00:59:35,575 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:35,575 - INFO -   Traj2 - Mean Velocity: 0.0055 mm/s
+2025-05-12 00:59:35,575 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:35,726 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_6.xlsx
+2025-05-12 00:59:35,825 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 6:
+2025-05-12 00:59:35,826 - INFO -   Traj1 - Mean Velocity: -0.2861 degrees/s
+2025-05-12 00:59:35,826 - INFO -   Traj1 - Velocity Consistency: 0.4904 degrees/s
+2025-05-12 00:59:35,826 - INFO -   Traj2 - Mean Velocity: -0.4726 degrees/s
+2025-05-12 00:59:35,826 - INFO -   Traj2 - Velocity Consistency: 0.9165 degrees/s
+2025-05-12 00:59:35,914 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 6:
+2025-05-12 00:59:35,914 - INFO -   Traj1 - Mean Velocity: -0.0531 degrees/s
+2025-05-12 00:59:35,914 - INFO -   Traj1 - Velocity Consistency: 0.8021 degrees/s
+2025-05-12 00:59:35,914 - INFO -   Traj2 - Mean Velocity: -0.3311 degrees/s
+2025-05-12 00:59:35,914 - INFO -   Traj2 - Velocity Consistency: 1.2395 degrees/s
+2025-05-12 00:59:36,009 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 6:
+2025-05-12 00:59:36,010 - INFO -   Traj1 - Mean Velocity: 0.0689 degrees/s
+2025-05-12 00:59:36,010 - INFO -   Traj1 - Velocity Consistency: 1.1716 degrees/s
+2025-05-12 00:59:36,010 - INFO -   Traj2 - Mean Velocity: -0.1225 degrees/s
+2025-05-12 00:59:36,010 - INFO -   Traj2 - Velocity Consistency: 1.1453 degrees/s
+2025-05-12 00:59:36,317 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:36,317 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_7.xlsx
+2025-05-12 00:59:36,419 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 7:
+2025-05-12 00:59:36,419 - INFO -   Traj1 - Mean Velocity: 0.0056 mm/s
+2025-05-12 00:59:36,419 - INFO -   Traj1 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 00:59:36,419 - INFO -   Traj2 - Mean Velocity: 0.0056 mm/s
+2025-05-12 00:59:36,419 - INFO -   Traj2 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 00:59:36,574 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_7.xlsx
+2025-05-12 00:59:36,694 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 7:
+2025-05-12 00:59:36,694 - INFO -   Traj1 - Mean Velocity: -0.3978 degrees/s
+2025-05-12 00:59:36,694 - INFO -   Traj1 - Velocity Consistency: 0.4820 degrees/s
+2025-05-12 00:59:36,694 - INFO -   Traj2 - Mean Velocity: -0.6295 degrees/s
+2025-05-12 00:59:36,694 - INFO -   Traj2 - Velocity Consistency: 0.9171 degrees/s
+2025-05-12 00:59:36,795 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 7:
+2025-05-12 00:59:36,795 - INFO -   Traj1 - Mean Velocity: -0.1764 degrees/s
+2025-05-12 00:59:36,795 - INFO -   Traj1 - Velocity Consistency: 0.8478 degrees/s
+2025-05-12 00:59:36,795 - INFO -   Traj2 - Mean Velocity: -0.5015 degrees/s
+2025-05-12 00:59:36,796 - INFO -   Traj2 - Velocity Consistency: 1.2284 degrees/s
+2025-05-12 00:59:36,892 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 7:
+2025-05-12 00:59:36,892 - INFO -   Traj1 - Mean Velocity: 0.1018 degrees/s
+2025-05-12 00:59:36,893 - INFO -   Traj1 - Velocity Consistency: 1.1932 degrees/s
+2025-05-12 00:59:36,893 - INFO -   Traj2 - Mean Velocity: -0.1194 degrees/s
+2025-05-12 00:59:36,893 - INFO -   Traj2 - Velocity Consistency: 1.2643 degrees/s
+2025-05-12 00:59:37,237 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:37,237 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ee_error_8.xlsx
+2025-05-12 00:59:37,353 - INFO - 
+End-Effector Velocity Statistics for diogo - Trial 8:
+2025-05-12 00:59:37,354 - INFO -   Traj1 - Mean Velocity: 0.0066 mm/s
+2025-05-12 00:59:37,354 - INFO -   Traj1 - Velocity Consistency: 0.0049 mm/s
+2025-05-12 00:59:37,354 - INFO -   Traj2 - Mean Velocity: 0.0065 mm/s
+2025-05-12 00:59:37,354 - INFO -   Traj2 - Velocity Consistency: 0.0048 mm/s
+2025-05-12 00:59:37,519 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/diogo/results/ang_error_8.xlsx
+2025-05-12 00:59:37,636 - INFO - 
+Joint1 Velocity Statistics for diogo - Trial 8:
+2025-05-12 00:59:37,637 - INFO -   Traj1 - Mean Velocity: -0.3144 degrees/s
+2025-05-12 00:59:37,637 - INFO -   Traj1 - Velocity Consistency: 0.5901 degrees/s
+2025-05-12 00:59:37,637 - INFO -   Traj2 - Mean Velocity: -0.5301 degrees/s
+2025-05-12 00:59:37,637 - INFO -   Traj2 - Velocity Consistency: 1.0687 degrees/s
+2025-05-12 00:59:37,745 - INFO - 
+Joint2 Velocity Statistics for diogo - Trial 8:
+2025-05-12 00:59:37,745 - INFO -   Traj1 - Mean Velocity: -0.0611 degrees/s
+2025-05-12 00:59:37,745 - INFO -   Traj1 - Velocity Consistency: 1.1106 degrees/s
+2025-05-12 00:59:37,745 - INFO -   Traj2 - Mean Velocity: -0.3702 degrees/s
+2025-05-12 00:59:37,745 - INFO -   Traj2 - Velocity Consistency: 1.5084 degrees/s
+2025-05-12 00:59:37,842 - INFO - 
+Joint3 Velocity Statistics for diogo - Trial 8:
+2025-05-12 00:59:37,843 - INFO -   Traj1 - Mean Velocity: 0.0749 degrees/s
+2025-05-12 00:59:37,843 - INFO -   Traj1 - Velocity Consistency: 1.4019 degrees/s
+2025-05-12 00:59:37,843 - INFO -   Traj2 - Mean Velocity: -0.1334 degrees/s
+2025-05-12 00:59:37,843 - INFO -   Traj2 - Velocity Consistency: 1.4737 degrees/s
+2025-05-12 00:59:38,332 - INFO - 
+Processing participant 6/9: jorge
+2025-05-12 00:59:38,332 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:38,332 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_1.xlsx
+2025-05-12 00:59:38,444 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 1:
+2025-05-12 00:59:38,444 - INFO -   Traj1 - Mean Velocity: 0.0059 mm/s
+2025-05-12 00:59:38,445 - INFO -   Traj1 - Velocity Consistency: 0.0047 mm/s
+2025-05-12 00:59:38,445 - INFO -   Traj2 - Mean Velocity: 0.0059 mm/s
+2025-05-12 00:59:38,445 - INFO -   Traj2 - Velocity Consistency: 0.0047 mm/s
+2025-05-12 00:59:38,605 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_1.xlsx
+2025-05-12 00:59:38,709 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 1:
+2025-05-12 00:59:38,709 - INFO -   Traj1 - Mean Velocity: -0.2227 degrees/s
+2025-05-12 00:59:38,709 - INFO -   Traj1 - Velocity Consistency: 0.5254 degrees/s
+2025-05-12 00:59:38,709 - INFO -   Traj2 - Mean Velocity: -0.3425 degrees/s
+2025-05-12 00:59:38,709 - INFO -   Traj2 - Velocity Consistency: 0.8747 degrees/s
+2025-05-12 00:59:38,803 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 1:
+2025-05-12 00:59:38,803 - INFO -   Traj1 - Mean Velocity: -0.0699 degrees/s
+2025-05-12 00:59:38,803 - INFO -   Traj1 - Velocity Consistency: 0.9564 degrees/s
+2025-05-12 00:59:38,803 - INFO -   Traj2 - Mean Velocity: -0.2437 degrees/s
+2025-05-12 00:59:38,803 - INFO -   Traj2 - Velocity Consistency: 1.3411 degrees/s
+2025-05-12 00:59:38,899 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 1:
+2025-05-12 00:59:38,899 - INFO -   Traj1 - Mean Velocity: 0.0784 degrees/s
+2025-05-12 00:59:38,899 - INFO -   Traj1 - Velocity Consistency: 1.7972 degrees/s
+2025-05-12 00:59:38,899 - INFO -   Traj2 - Mean Velocity: -0.0081 degrees/s
+2025-05-12 00:59:38,900 - INFO -   Traj2 - Velocity Consistency: 2.1976 degrees/s
+2025-05-12 00:59:39,224 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:39,225 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_2.xlsx
+2025-05-12 00:59:39,328 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 2:
+2025-05-12 00:59:39,329 - INFO -   Traj1 - Mean Velocity: 0.0062 mm/s
+2025-05-12 00:59:39,329 - INFO -   Traj1 - Velocity Consistency: 0.0048 mm/s
+2025-05-12 00:59:39,329 - INFO -   Traj2 - Mean Velocity: 0.0061 mm/s
+2025-05-12 00:59:39,329 - INFO -   Traj2 - Velocity Consistency: 0.0049 mm/s
+2025-05-12 00:59:39,489 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_2.xlsx
+2025-05-12 00:59:39,598 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 2:
+2025-05-12 00:59:39,598 - INFO -   Traj1 - Mean Velocity: -0.1246 degrees/s
+2025-05-12 00:59:39,599 - INFO -   Traj1 - Velocity Consistency: 0.5460 degrees/s
+2025-05-12 00:59:39,599 - INFO -   Traj2 - Mean Velocity: -0.2756 degrees/s
+2025-05-12 00:59:39,599 - INFO -   Traj2 - Velocity Consistency: 0.9385 degrees/s
+2025-05-12 00:59:39,694 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 2:
+2025-05-12 00:59:39,694 - INFO -   Traj1 - Mean Velocity: 0.1157 degrees/s
+2025-05-12 00:59:39,694 - INFO -   Traj1 - Velocity Consistency: 1.0456 degrees/s
+2025-05-12 00:59:39,694 - INFO -   Traj2 - Mean Velocity: -0.1034 degrees/s
+2025-05-12 00:59:39,694 - INFO -   Traj2 - Velocity Consistency: 1.3758 degrees/s
+2025-05-12 00:59:39,784 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 2:
+2025-05-12 00:59:39,785 - INFO -   Traj1 - Mean Velocity: 0.0612 degrees/s
+2025-05-12 00:59:39,785 - INFO -   Traj1 - Velocity Consistency: 1.7191 degrees/s
+2025-05-12 00:59:39,785 - INFO -   Traj2 - Mean Velocity: -0.0522 degrees/s
+2025-05-12 00:59:39,785 - INFO -   Traj2 - Velocity Consistency: 2.1428 degrees/s
+2025-05-12 00:59:40,120 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:40,120 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_3.xlsx
+2025-05-12 00:59:40,218 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 3:
+2025-05-12 00:59:40,218 - INFO -   Traj1 - Mean Velocity: 0.0046 mm/s
+2025-05-12 00:59:40,218 - INFO -   Traj1 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:40,219 - INFO -   Traj2 - Mean Velocity: 0.0046 mm/s
+2025-05-12 00:59:40,219 - INFO -   Traj2 - Velocity Consistency: 0.0040 mm/s
+2025-05-12 00:59:40,390 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_3.xlsx
+2025-05-12 00:59:40,492 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 3:
+2025-05-12 00:59:40,492 - INFO -   Traj1 - Mean Velocity: -0.2758 degrees/s
+2025-05-12 00:59:40,492 - INFO -   Traj1 - Velocity Consistency: 0.4244 degrees/s
+2025-05-12 00:59:40,492 - INFO -   Traj2 - Mean Velocity: -0.4506 degrees/s
+2025-05-12 00:59:40,492 - INFO -   Traj2 - Velocity Consistency: 0.8177 degrees/s
+2025-05-12 00:59:40,588 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 3:
+2025-05-12 00:59:40,588 - INFO -   Traj1 - Mean Velocity: -0.1130 degrees/s
+2025-05-12 00:59:40,588 - INFO -   Traj1 - Velocity Consistency: 0.5935 degrees/s
+2025-05-12 00:59:40,588 - INFO -   Traj2 - Mean Velocity: -0.3364 degrees/s
+2025-05-12 00:59:40,588 - INFO -   Traj2 - Velocity Consistency: 0.9566 degrees/s
+2025-05-12 00:59:40,686 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 3:
+2025-05-12 00:59:40,686 - INFO -   Traj1 - Mean Velocity: 0.1418 degrees/s
+2025-05-12 00:59:40,686 - INFO -   Traj1 - Velocity Consistency: 1.0361 degrees/s
+2025-05-12 00:59:40,686 - INFO -   Traj2 - Mean Velocity: 0.0493 degrees/s
+2025-05-12 00:59:40,686 - INFO -   Traj2 - Velocity Consistency: 1.2795 degrees/s
+2025-05-12 00:59:41,016 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:41,016 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_4.xlsx
+2025-05-12 00:59:41,115 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 4:
+2025-05-12 00:59:41,115 - INFO -   Traj1 - Mean Velocity: 0.0058 mm/s
+2025-05-12 00:59:41,115 - INFO -   Traj1 - Velocity Consistency: 0.0045 mm/s
+2025-05-12 00:59:41,115 - INFO -   Traj2 - Mean Velocity: 0.0058 mm/s
+2025-05-12 00:59:41,115 - INFO -   Traj2 - Velocity Consistency: 0.0045 mm/s
+2025-05-12 00:59:41,284 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_4.xlsx
+2025-05-12 00:59:41,379 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 4:
+2025-05-12 00:59:41,379 - INFO -   Traj1 - Mean Velocity: -0.1816 degrees/s
+2025-05-12 00:59:41,379 - INFO -   Traj1 - Velocity Consistency: 0.5096 degrees/s
+2025-05-12 00:59:41,379 - INFO -   Traj2 - Mean Velocity: -0.3487 degrees/s
+2025-05-12 00:59:41,380 - INFO -   Traj2 - Velocity Consistency: 0.9065 degrees/s
+2025-05-12 00:59:41,472 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 4:
+2025-05-12 00:59:41,472 - INFO -   Traj1 - Mean Velocity: 0.0573 degrees/s
+2025-05-12 00:59:41,472 - INFO -   Traj1 - Velocity Consistency: 0.9263 degrees/s
+2025-05-12 00:59:41,472 - INFO -   Traj2 - Mean Velocity: -0.1758 degrees/s
+2025-05-12 00:59:41,472 - INFO -   Traj2 - Velocity Consistency: 1.2157 degrees/s
+2025-05-12 00:59:41,569 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 4:
+2025-05-12 00:59:41,570 - INFO -   Traj1 - Mean Velocity: 0.0670 degrees/s
+2025-05-12 00:59:41,570 - INFO -   Traj1 - Velocity Consistency: 1.5360 degrees/s
+2025-05-12 00:59:41,570 - INFO -   Traj2 - Mean Velocity: -0.0535 degrees/s
+2025-05-12 00:59:41,570 - INFO -   Traj2 - Velocity Consistency: 1.9537 degrees/s
+2025-05-12 00:59:41,913 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:41,913 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_5.xlsx
+2025-05-12 00:59:42,022 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 5:
+2025-05-12 00:59:42,022 - INFO -   Traj1 - Mean Velocity: 0.0058 mm/s
+2025-05-12 00:59:42,022 - INFO -   Traj1 - Velocity Consistency: 0.0042 mm/s
+2025-05-12 00:59:42,022 - INFO -   Traj2 - Mean Velocity: 0.0058 mm/s
+2025-05-12 00:59:42,022 - INFO -   Traj2 - Velocity Consistency: 0.0042 mm/s
+2025-05-12 00:59:42,198 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_5.xlsx
+2025-05-12 00:59:42,307 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 5:
+2025-05-12 00:59:42,307 - INFO -   Traj1 - Mean Velocity: -0.3122 degrees/s
+2025-05-12 00:59:42,307 - INFO -   Traj1 - Velocity Consistency: 0.4792 degrees/s
+2025-05-12 00:59:42,307 - INFO -   Traj2 - Mean Velocity: -0.5316 degrees/s
+2025-05-12 00:59:42,308 - INFO -   Traj2 - Velocity Consistency: 0.8623 degrees/s
+2025-05-12 00:59:42,408 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 5:
+2025-05-12 00:59:42,408 - INFO -   Traj1 - Mean Velocity: -0.1367 degrees/s
+2025-05-12 00:59:42,408 - INFO -   Traj1 - Velocity Consistency: 0.7186 degrees/s
+2025-05-12 00:59:42,408 - INFO -   Traj2 - Mean Velocity: -0.3936 degrees/s
+2025-05-12 00:59:42,408 - INFO -   Traj2 - Velocity Consistency: 1.0629 degrees/s
+2025-05-12 00:59:42,510 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 5:
+2025-05-12 00:59:42,510 - INFO -   Traj1 - Mean Velocity: 0.1357 degrees/s
+2025-05-12 00:59:42,510 - INFO -   Traj1 - Velocity Consistency: 1.1868 degrees/s
+2025-05-12 00:59:42,510 - INFO -   Traj2 - Mean Velocity: 0.0314 degrees/s
+2025-05-12 00:59:42,510 - INFO -   Traj2 - Velocity Consistency: 1.9292 degrees/s
+2025-05-12 00:59:42,861 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:42,861 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_6.xlsx
+2025-05-12 00:59:42,963 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 6:
+2025-05-12 00:59:42,963 - INFO -   Traj1 - Mean Velocity: 0.0076 mm/s
+2025-05-12 00:59:42,963 - INFO -   Traj1 - Velocity Consistency: 0.0047 mm/s
+2025-05-12 00:59:42,964 - INFO -   Traj2 - Mean Velocity: 0.0075 mm/s
+2025-05-12 00:59:42,964 - INFO -   Traj2 - Velocity Consistency: 0.0048 mm/s
+2025-05-12 00:59:43,143 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_6.xlsx
+2025-05-12 00:59:43,247 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 6:
+2025-05-12 00:59:43,248 - INFO -   Traj1 - Mean Velocity: -0.2406 degrees/s
+2025-05-12 00:59:43,248 - INFO -   Traj1 - Velocity Consistency: 0.5761 degrees/s
+2025-05-12 00:59:43,248 - INFO -   Traj2 - Mean Velocity: -0.4675 degrees/s
+2025-05-12 00:59:43,248 - INFO -   Traj2 - Velocity Consistency: 1.4211 degrees/s
+2025-05-12 00:59:43,341 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 6:
+2025-05-12 00:59:43,341 - INFO -   Traj1 - Mean Velocity: 0.0583 degrees/s
+2025-05-12 00:59:43,341 - INFO -   Traj1 - Velocity Consistency: 0.8494 degrees/s
+2025-05-12 00:59:43,341 - INFO -   Traj2 - Mean Velocity: -0.2406 degrees/s
+2025-05-12 00:59:43,341 - INFO -   Traj2 - Velocity Consistency: 1.5682 degrees/s
+2025-05-12 00:59:43,438 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 6:
+2025-05-12 00:59:43,438 - INFO -   Traj1 - Mean Velocity: 0.0577 degrees/s
+2025-05-12 00:59:43,438 - INFO -   Traj1 - Velocity Consistency: 1.7105 degrees/s
+2025-05-12 00:59:43,438 - INFO -   Traj2 - Mean Velocity: -0.0904 degrees/s
+2025-05-12 00:59:43,439 - INFO -   Traj2 - Velocity Consistency: 3.7937 degrees/s
+2025-05-12 00:59:43,823 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:43,824 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_7.xlsx
+2025-05-12 00:59:43,934 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 7:
+2025-05-12 00:59:43,935 - INFO -   Traj1 - Mean Velocity: 0.0076 mm/s
+2025-05-12 00:59:43,935 - INFO -   Traj1 - Velocity Consistency: 0.0061 mm/s
+2025-05-12 00:59:43,935 - INFO -   Traj2 - Mean Velocity: 0.0076 mm/s
+2025-05-12 00:59:43,935 - INFO -   Traj2 - Velocity Consistency: 0.0061 mm/s
+2025-05-12 00:59:44,113 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_7.xlsx
+2025-05-12 00:59:44,214 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 7:
+2025-05-12 00:59:44,214 - INFO -   Traj1 - Mean Velocity: -0.3600 degrees/s
+2025-05-12 00:59:44,214 - INFO -   Traj1 - Velocity Consistency: 0.6144 degrees/s
+2025-05-12 00:59:44,214 - INFO -   Traj2 - Mean Velocity: -0.7614 degrees/s
+2025-05-12 00:59:44,214 - INFO -   Traj2 - Velocity Consistency: 1.0778 degrees/s
+2025-05-12 00:59:44,314 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 7:
+2025-05-12 00:59:44,315 - INFO -   Traj1 - Mean Velocity: -0.0461 degrees/s
+2025-05-12 00:59:44,315 - INFO -   Traj1 - Velocity Consistency: 0.8378 degrees/s
+2025-05-12 00:59:44,315 - INFO -   Traj2 - Mean Velocity: -0.4487 degrees/s
+2025-05-12 00:59:44,315 - INFO -   Traj2 - Velocity Consistency: 1.4763 degrees/s
+2025-05-12 00:59:44,414 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 7:
+2025-05-12 00:59:44,414 - INFO -   Traj1 - Mean Velocity: 0.2375 degrees/s
+2025-05-12 00:59:44,414 - INFO -   Traj1 - Velocity Consistency: 1.5508 degrees/s
+2025-05-12 00:59:44,414 - INFO -   Traj2 - Mean Velocity: -0.0568 degrees/s
+2025-05-12 00:59:44,414 - INFO -   Traj2 - Velocity Consistency: 4.7904 degrees/s
+2025-05-12 00:59:44,781 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:44,781 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ee_error_8.xlsx
+2025-05-12 00:59:44,879 - INFO - 
+End-Effector Velocity Statistics for jorge - Trial 8:
+2025-05-12 00:59:44,879 - INFO -   Traj1 - Mean Velocity: 0.0092 mm/s
+2025-05-12 00:59:44,879 - INFO -   Traj1 - Velocity Consistency: 0.0071 mm/s
+2025-05-12 00:59:44,879 - INFO -   Traj2 - Mean Velocity: 0.0092 mm/s
+2025-05-12 00:59:44,879 - INFO -   Traj2 - Velocity Consistency: 0.0072 mm/s
+2025-05-12 00:59:45,061 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/jorge/results/ang_error_8.xlsx
+2025-05-12 00:59:45,172 - INFO - 
+Joint1 Velocity Statistics for jorge - Trial 8:
+2025-05-12 00:59:45,172 - INFO -   Traj1 - Mean Velocity: -0.3066 degrees/s
+2025-05-12 00:59:45,172 - INFO -   Traj1 - Velocity Consistency: 0.6586 degrees/s
+2025-05-12 00:59:45,173 - INFO -   Traj2 - Mean Velocity: -0.5672 degrees/s
+2025-05-12 00:59:45,173 - INFO -   Traj2 - Velocity Consistency: 1.4753 degrees/s
+2025-05-12 00:59:45,270 - INFO - 
+Joint2 Velocity Statistics for jorge - Trial 8:
+2025-05-12 00:59:45,271 - INFO -   Traj1 - Mean Velocity: 0.0517 degrees/s
+2025-05-12 00:59:45,271 - INFO -   Traj1 - Velocity Consistency: 0.9801 degrees/s
+2025-05-12 00:59:45,271 - INFO -   Traj2 - Mean Velocity: -0.2888 degrees/s
+2025-05-12 00:59:45,271 - INFO -   Traj2 - Velocity Consistency: 1.8318 degrees/s
+2025-05-12 00:59:45,364 - INFO - 
+Joint3 Velocity Statistics for jorge - Trial 8:
+2025-05-12 00:59:45,364 - INFO -   Traj1 - Mean Velocity: 0.0418 degrees/s
+2025-05-12 00:59:45,364 - INFO -   Traj1 - Velocity Consistency: 2.1288 degrees/s
+2025-05-12 00:59:45,364 - INFO -   Traj2 - Mean Velocity: -0.1308 degrees/s
+2025-05-12 00:59:45,364 - INFO -   Traj2 - Velocity Consistency: 4.5358 degrees/s
+2025-05-12 00:59:45,922 - INFO - 
+Processing participant 7/9: luis
+2025-05-12 00:59:45,923 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:45,923 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_1.xlsx
+2025-05-12 00:59:46,030 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 1:
+2025-05-12 00:59:46,031 - INFO -   Traj1 - Mean Velocity: 0.0044 mm/s
+2025-05-12 00:59:46,031 - INFO -   Traj1 - Velocity Consistency: 0.0036 mm/s
+2025-05-12 00:59:46,031 - INFO -   Traj2 - Mean Velocity: 0.0045 mm/s
+2025-05-12 00:59:46,031 - INFO -   Traj2 - Velocity Consistency: 0.0036 mm/s
+2025-05-12 00:59:46,214 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_1.xlsx
+2025-05-12 00:59:46,310 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 1:
+2025-05-12 00:59:46,310 - INFO -   Traj1 - Mean Velocity: -0.2246 degrees/s
+2025-05-12 00:59:46,310 - INFO -   Traj1 - Velocity Consistency: 0.3851 degrees/s
+2025-05-12 00:59:46,310 - INFO -   Traj2 - Mean Velocity: -0.3693 degrees/s
+2025-05-12 00:59:46,310 - INFO -   Traj2 - Velocity Consistency: 0.5845 degrees/s
+2025-05-12 00:59:46,414 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 1:
+2025-05-12 00:59:46,414 - INFO -   Traj1 - Mean Velocity: -0.0367 degrees/s
+2025-05-12 00:59:46,414 - INFO -   Traj1 - Velocity Consistency: 1.0718 degrees/s
+2025-05-12 00:59:46,414 - INFO -   Traj2 - Mean Velocity: -0.2577 degrees/s
+2025-05-12 00:59:46,414 - INFO -   Traj2 - Velocity Consistency: 1.1399 degrees/s
+2025-05-12 00:59:46,523 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 1:
+2025-05-12 00:59:46,523 - INFO -   Traj1 - Mean Velocity: -0.0016 degrees/s
+2025-05-12 00:59:46,523 - INFO -   Traj1 - Velocity Consistency: 0.8609 degrees/s
+2025-05-12 00:59:46,523 - INFO -   Traj2 - Mean Velocity: -0.1614 degrees/s
+2025-05-12 00:59:46,524 - INFO -   Traj2 - Velocity Consistency: 0.7599 degrees/s
+2025-05-12 00:59:46,913 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:46,913 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_2.xlsx
+2025-05-12 00:59:47,017 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 2:
+2025-05-12 00:59:47,017 - INFO -   Traj1 - Mean Velocity: 0.0047 mm/s
+2025-05-12 00:59:47,017 - INFO -   Traj1 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:47,017 - INFO -   Traj2 - Mean Velocity: 0.0047 mm/s
+2025-05-12 00:59:47,017 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 00:59:47,206 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_2.xlsx
+2025-05-12 00:59:47,317 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 2:
+2025-05-12 00:59:47,317 - INFO -   Traj1 - Mean Velocity: -0.1332 degrees/s
+2025-05-12 00:59:47,318 - INFO -   Traj1 - Velocity Consistency: 0.4313 degrees/s
+2025-05-12 00:59:47,318 - INFO -   Traj2 - Mean Velocity: -0.2475 degrees/s
+2025-05-12 00:59:47,318 - INFO -   Traj2 - Velocity Consistency: 0.7234 degrees/s
+2025-05-12 00:59:47,418 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 2:
+2025-05-12 00:59:47,418 - INFO -   Traj1 - Mean Velocity: 0.0677 degrees/s
+2025-05-12 00:59:47,418 - INFO -   Traj1 - Velocity Consistency: 1.1799 degrees/s
+2025-05-12 00:59:47,418 - INFO -   Traj2 - Mean Velocity: -0.1101 degrees/s
+2025-05-12 00:59:47,419 - INFO -   Traj2 - Velocity Consistency: 1.3134 degrees/s
+2025-05-12 00:59:47,506 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 2:
+2025-05-12 00:59:47,507 - INFO -   Traj1 - Mean Velocity: -0.0120 degrees/s
+2025-05-12 00:59:47,507 - INFO -   Traj1 - Velocity Consistency: 1.0776 degrees/s
+2025-05-12 00:59:47,507 - INFO -   Traj2 - Mean Velocity: -0.1425 degrees/s
+2025-05-12 00:59:47,507 - INFO -   Traj2 - Velocity Consistency: 0.9772 degrees/s
+2025-05-12 00:59:47,885 - INFO - 
+Processing trial 3/8
+2025-05-12 00:59:47,885 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_3.xlsx
+2025-05-12 00:59:47,984 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 3:
+2025-05-12 00:59:47,984 - INFO -   Traj1 - Mean Velocity: 0.0054 mm/s
+2025-05-12 00:59:47,984 - INFO -   Traj1 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 00:59:47,984 - INFO -   Traj2 - Mean Velocity: 0.0054 mm/s
+2025-05-12 00:59:47,984 - INFO -   Traj2 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 00:59:48,175 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_3.xlsx
+2025-05-12 00:59:48,285 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 3:
+2025-05-12 00:59:48,286 - INFO -   Traj1 - Mean Velocity: -0.3125 degrees/s
+2025-05-12 00:59:48,286 - INFO -   Traj1 - Velocity Consistency: 0.4768 degrees/s
+2025-05-12 00:59:48,286 - INFO -   Traj2 - Mean Velocity: -0.4691 degrees/s
+2025-05-12 00:59:48,286 - INFO -   Traj2 - Velocity Consistency: 0.6531 degrees/s
+2025-05-12 00:59:48,391 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 3:
+2025-05-12 00:59:48,391 - INFO -   Traj1 - Mean Velocity: -0.1389 degrees/s
+2025-05-12 00:59:48,391 - INFO -   Traj1 - Velocity Consistency: 1.1895 degrees/s
+2025-05-12 00:59:48,391 - INFO -   Traj2 - Mean Velocity: -0.3863 degrees/s
+2025-05-12 00:59:48,391 - INFO -   Traj2 - Velocity Consistency: 1.2349 degrees/s
+2025-05-12 00:59:48,484 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 3:
+2025-05-12 00:59:48,484 - INFO -   Traj1 - Mean Velocity: -0.0205 degrees/s
+2025-05-12 00:59:48,484 - INFO -   Traj1 - Velocity Consistency: 0.8072 degrees/s
+2025-05-12 00:59:48,485 - INFO -   Traj2 - Mean Velocity: -0.2020 degrees/s
+2025-05-12 00:59:48,485 - INFO -   Traj2 - Velocity Consistency: 0.7630 degrees/s
+2025-05-12 00:59:48,866 - INFO - 
+Processing trial 4/8
+2025-05-12 00:59:48,867 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_4.xlsx
+2025-05-12 00:59:48,966 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 4:
+2025-05-12 00:59:48,967 - INFO -   Traj1 - Mean Velocity: 0.0067 mm/s
+2025-05-12 00:59:48,967 - INFO -   Traj1 - Velocity Consistency: 0.0053 mm/s
+2025-05-12 00:59:48,967 - INFO -   Traj2 - Mean Velocity: 0.0067 mm/s
+2025-05-12 00:59:48,967 - INFO -   Traj2 - Velocity Consistency: 0.0053 mm/s
+2025-05-12 00:59:49,164 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_4.xlsx
+2025-05-12 00:59:49,263 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 4:
+2025-05-12 00:59:49,263 - INFO -   Traj1 - Mean Velocity: -0.2295 degrees/s
+2025-05-12 00:59:49,263 - INFO -   Traj1 - Velocity Consistency: 0.5599 degrees/s
+2025-05-12 00:59:49,263 - INFO -   Traj2 - Mean Velocity: -0.4179 degrees/s
+2025-05-12 00:59:49,263 - INFO -   Traj2 - Velocity Consistency: 0.8079 degrees/s
+2025-05-12 00:59:49,360 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 4:
+2025-05-12 00:59:49,360 - INFO -   Traj1 - Mean Velocity: -0.0151 degrees/s
+2025-05-12 00:59:49,360 - INFO -   Traj1 - Velocity Consistency: 1.4809 degrees/s
+2025-05-12 00:59:49,360 - INFO -   Traj2 - Mean Velocity: -0.2442 degrees/s
+2025-05-12 00:59:49,360 - INFO -   Traj2 - Velocity Consistency: 1.4779 degrees/s
+2025-05-12 00:59:49,462 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 4:
+2025-05-12 00:59:49,462 - INFO -   Traj1 - Mean Velocity: 0.0032 degrees/s
+2025-05-12 00:59:49,462 - INFO -   Traj1 - Velocity Consistency: 0.9677 degrees/s
+2025-05-12 00:59:49,462 - INFO -   Traj2 - Mean Velocity: -0.3118 degrees/s
+2025-05-12 00:59:49,462 - INFO -   Traj2 - Velocity Consistency: 1.6107 degrees/s
+2025-05-12 00:59:49,859 - INFO - 
+Processing trial 5/8
+2025-05-12 00:59:49,859 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_5.xlsx
+2025-05-12 00:59:49,963 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 5:
+2025-05-12 00:59:49,964 - INFO -   Traj1 - Mean Velocity: 0.0065 mm/s
+2025-05-12 00:59:49,964 - INFO -   Traj1 - Velocity Consistency: 0.0058 mm/s
+2025-05-12 00:59:49,965 - INFO -   Traj2 - Mean Velocity: 0.0064 mm/s
+2025-05-12 00:59:49,965 - INFO -   Traj2 - Velocity Consistency: 0.0058 mm/s
+2025-05-12 00:59:50,163 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_5.xlsx
+2025-05-12 00:59:50,260 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 5:
+2025-05-12 00:59:50,260 - INFO -   Traj1 - Mean Velocity: -0.3756 degrees/s
+2025-05-12 00:59:50,261 - INFO -   Traj1 - Velocity Consistency: 0.5403 degrees/s
+2025-05-12 00:59:50,261 - INFO -   Traj2 - Mean Velocity: -0.6520 degrees/s
+2025-05-12 00:59:50,261 - INFO -   Traj2 - Velocity Consistency: 0.9658 degrees/s
+2025-05-12 00:59:50,353 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 5:
+2025-05-12 00:59:50,354 - INFO -   Traj1 - Mean Velocity: -0.1808 degrees/s
+2025-05-12 00:59:50,354 - INFO -   Traj1 - Velocity Consistency: 1.4256 degrees/s
+2025-05-12 00:59:50,354 - INFO -   Traj2 - Mean Velocity: -0.5018 degrees/s
+2025-05-12 00:59:50,354 - INFO -   Traj2 - Velocity Consistency: 1.4244 degrees/s
+2025-05-12 00:59:50,451 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 5:
+2025-05-12 00:59:50,451 - INFO -   Traj1 - Mean Velocity: -0.0066 degrees/s
+2025-05-12 00:59:50,451 - INFO -   Traj1 - Velocity Consistency: 1.1495 degrees/s
+2025-05-12 00:59:50,451 - INFO -   Traj2 - Mean Velocity: -0.4978 degrees/s
+2025-05-12 00:59:50,451 - INFO -   Traj2 - Velocity Consistency: 1.3785 degrees/s
+2025-05-12 00:59:50,850 - INFO - 
+Processing trial 6/8
+2025-05-12 00:59:50,850 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_6.xlsx
+2025-05-12 00:59:50,961 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 6:
+2025-05-12 00:59:50,961 - INFO -   Traj1 - Mean Velocity: 0.0076 mm/s
+2025-05-12 00:59:50,961 - INFO -   Traj1 - Velocity Consistency: 0.0060 mm/s
+2025-05-12 00:59:50,961 - INFO -   Traj2 - Mean Velocity: 0.0076 mm/s
+2025-05-12 00:59:50,961 - INFO -   Traj2 - Velocity Consistency: 0.0060 mm/s
+2025-05-12 00:59:51,176 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_6.xlsx
+2025-05-12 00:59:51,290 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 6:
+2025-05-12 00:59:51,291 - INFO -   Traj1 - Mean Velocity: -0.3074 degrees/s
+2025-05-12 00:59:51,291 - INFO -   Traj1 - Velocity Consistency: 0.5984 degrees/s
+2025-05-12 00:59:51,291 - INFO -   Traj2 - Mean Velocity: -0.5903 degrees/s
+2025-05-12 00:59:51,291 - INFO -   Traj2 - Velocity Consistency: 1.0135 degrees/s
+2025-05-12 00:59:51,388 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 6:
+2025-05-12 00:59:51,388 - INFO -   Traj1 - Mean Velocity: -0.1021 degrees/s
+2025-05-12 00:59:51,388 - INFO -   Traj1 - Velocity Consistency: 1.6503 degrees/s
+2025-05-12 00:59:51,388 - INFO -   Traj2 - Mean Velocity: -0.4255 degrees/s
+2025-05-12 00:59:51,388 - INFO -   Traj2 - Velocity Consistency: 1.6324 degrees/s
+2025-05-12 00:59:51,486 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 6:
+2025-05-12 00:59:51,486 - INFO -   Traj1 - Mean Velocity: 0.0048 degrees/s
+2025-05-12 00:59:51,486 - INFO -   Traj1 - Velocity Consistency: 1.3982 degrees/s
+2025-05-12 00:59:51,486 - INFO -   Traj2 - Mean Velocity: -0.4879 degrees/s
+2025-05-12 00:59:51,486 - INFO -   Traj2 - Velocity Consistency: 1.7993 degrees/s
+2025-05-12 00:59:51,898 - INFO - 
+Processing trial 7/8
+2025-05-12 00:59:51,898 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_7.xlsx
+2025-05-12 00:59:52,011 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 7:
+2025-05-12 00:59:52,012 - INFO -   Traj1 - Mean Velocity: 0.0065 mm/s
+2025-05-12 00:59:52,012 - INFO -   Traj1 - Velocity Consistency: 0.0051 mm/s
+2025-05-12 00:59:52,012 - INFO -   Traj2 - Mean Velocity: 0.0065 mm/s
+2025-05-12 00:59:52,012 - INFO -   Traj2 - Velocity Consistency: 0.0051 mm/s
+2025-05-12 00:59:52,225 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_7.xlsx
+2025-05-12 00:59:52,334 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 7:
+2025-05-12 00:59:52,334 - INFO -   Traj1 - Mean Velocity: -0.3975 degrees/s
+2025-05-12 00:59:52,334 - INFO -   Traj1 - Velocity Consistency: 0.4554 degrees/s
+2025-05-12 00:59:52,334 - INFO -   Traj2 - Mean Velocity: -0.7166 degrees/s
+2025-05-12 00:59:52,334 - INFO -   Traj2 - Velocity Consistency: 0.8728 degrees/s
+2025-05-12 00:59:52,441 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 7:
+2025-05-12 00:59:52,441 - INFO -   Traj1 - Mean Velocity: -0.1491 degrees/s
+2025-05-12 00:59:52,441 - INFO -   Traj1 - Velocity Consistency: 1.4334 degrees/s
+2025-05-12 00:59:52,441 - INFO -   Traj2 - Mean Velocity: -0.4984 degrees/s
+2025-05-12 00:59:52,441 - INFO -   Traj2 - Velocity Consistency: 1.3940 degrees/s
+2025-05-12 00:59:52,542 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 7:
+2025-05-12 00:59:52,542 - INFO -   Traj1 - Mean Velocity: 0.0253 degrees/s
+2025-05-12 00:59:52,542 - INFO -   Traj1 - Velocity Consistency: 1.3228 degrees/s
+2025-05-12 00:59:52,542 - INFO -   Traj2 - Mean Velocity: -0.4841 degrees/s
+2025-05-12 00:59:52,542 - INFO -   Traj2 - Velocity Consistency: 1.7416 degrees/s
+2025-05-12 00:59:53,019 - INFO - 
+Processing trial 8/8
+2025-05-12 00:59:53,019 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ee_error_8.xlsx
+2025-05-12 00:59:53,132 - INFO - 
+End-Effector Velocity Statistics for luis - Trial 8:
+2025-05-12 00:59:53,132 - INFO -   Traj1 - Mean Velocity: 0.0073 mm/s
+2025-05-12 00:59:53,132 - INFO -   Traj1 - Velocity Consistency: 0.0058 mm/s
+2025-05-12 00:59:53,132 - INFO -   Traj2 - Mean Velocity: 0.0073 mm/s
+2025-05-12 00:59:53,132 - INFO -   Traj2 - Velocity Consistency: 0.0058 mm/s
+2025-05-12 00:59:53,349 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/luis/results/ang_error_8.xlsx
+2025-05-12 00:59:53,455 - INFO - 
+Joint1 Velocity Statistics for luis - Trial 8:
+2025-05-12 00:59:53,455 - INFO -   Traj1 - Mean Velocity: -0.3716 degrees/s
+2025-05-12 00:59:53,456 - INFO -   Traj1 - Velocity Consistency: 0.5519 degrees/s
+2025-05-12 00:59:53,456 - INFO -   Traj2 - Mean Velocity: -0.7686 degrees/s
+2025-05-12 00:59:53,456 - INFO -   Traj2 - Velocity Consistency: 1.1097 degrees/s
+2025-05-12 00:59:53,557 - INFO - 
+Joint2 Velocity Statistics for luis - Trial 8:
+2025-05-12 00:59:53,557 - INFO -   Traj1 - Mean Velocity: -0.1084 degrees/s
+2025-05-12 00:59:53,557 - INFO -   Traj1 - Velocity Consistency: 1.5983 degrees/s
+2025-05-12 00:59:53,557 - INFO -   Traj2 - Mean Velocity: -0.5743 degrees/s
+2025-05-12 00:59:53,557 - INFO -   Traj2 - Velocity Consistency: 1.7344 degrees/s
+2025-05-12 00:59:53,657 - INFO - 
+Joint3 Velocity Statistics for luis - Trial 8:
+2025-05-12 00:59:53,658 - INFO -   Traj1 - Mean Velocity: 0.0233 degrees/s
+2025-05-12 00:59:53,658 - INFO -   Traj1 - Velocity Consistency: 1.6578 degrees/s
+2025-05-12 00:59:53,658 - INFO -   Traj2 - Mean Velocity: -0.5310 degrees/s
+2025-05-12 00:59:53,658 - INFO -   Traj2 - Velocity Consistency: 2.2151 degrees/s
+2025-05-12 00:59:57,940 - INFO - 
+Processing participant 8/9: sara
+2025-05-12 00:59:57,941 - INFO - 
+Processing trial 1/8
+2025-05-12 00:59:57,941 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_1.xlsx
+2025-05-12 00:59:58,058 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 1:
+2025-05-12 00:59:58,058 - INFO -   Traj1 - Mean Velocity: 0.0028 mm/s
+2025-05-12 00:59:58,058 - INFO -   Traj1 - Velocity Consistency: 0.0018 mm/s
+2025-05-12 00:59:58,058 - INFO -   Traj2 - Mean Velocity: 0.0028 mm/s
+2025-05-12 00:59:58,059 - INFO -   Traj2 - Velocity Consistency: 0.0018 mm/s
+2025-05-12 00:59:58,308 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_1.xlsx
+2025-05-12 00:59:58,432 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 1:
+2025-05-12 00:59:58,433 - INFO -   Traj1 - Mean Velocity: -0.2034 degrees/s
+2025-05-12 00:59:58,433 - INFO -   Traj1 - Velocity Consistency: 0.3921 degrees/s
+2025-05-12 00:59:58,433 - INFO -   Traj2 - Mean Velocity: -0.2450 degrees/s
+2025-05-12 00:59:58,433 - INFO -   Traj2 - Velocity Consistency: 0.4411 degrees/s
+2025-05-12 00:59:58,546 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 1:
+2025-05-12 00:59:58,547 - INFO -   Traj1 - Mean Velocity: 0.0827 degrees/s
+2025-05-12 00:59:58,547 - INFO -   Traj1 - Velocity Consistency: 0.3081 degrees/s
+2025-05-12 00:59:58,547 - INFO -   Traj2 - Mean Velocity: -0.0770 degrees/s
+2025-05-12 00:59:58,547 - INFO -   Traj2 - Velocity Consistency: 0.3908 degrees/s
+2025-05-12 00:59:58,649 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 1:
+2025-05-12 00:59:58,649 - INFO -   Traj1 - Mean Velocity: 0.0096 degrees/s
+2025-05-12 00:59:58,649 - INFO -   Traj1 - Velocity Consistency: 0.3017 degrees/s
+2025-05-12 00:59:58,649 - INFO -   Traj2 - Mean Velocity: -0.0620 degrees/s
+2025-05-12 00:59:58,650 - INFO -   Traj2 - Velocity Consistency: 0.3078 degrees/s
+2025-05-12 00:59:59,107 - INFO - 
+Processing trial 2/8
+2025-05-12 00:59:59,108 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_2.xlsx
+2025-05-12 00:59:59,218 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 2:
+2025-05-12 00:59:59,219 - INFO -   Traj1 - Mean Velocity: 0.0040 mm/s
+2025-05-12 00:59:59,219 - INFO -   Traj1 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 00:59:59,219 - INFO -   Traj2 - Mean Velocity: 0.0040 mm/s
+2025-05-12 00:59:59,219 - INFO -   Traj2 - Velocity Consistency: 0.0026 mm/s
+2025-05-12 00:59:59,464 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_2.xlsx
+2025-05-12 00:59:59,563 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 2:
+2025-05-12 00:59:59,564 - INFO -   Traj1 - Mean Velocity: -0.1085 degrees/s
+2025-05-12 00:59:59,564 - INFO -   Traj1 - Velocity Consistency: 0.5903 degrees/s
+2025-05-12 00:59:59,564 - INFO -   Traj2 - Mean Velocity: -0.1573 degrees/s
+2025-05-12 00:59:59,564 - INFO -   Traj2 - Velocity Consistency: 0.6817 degrees/s
+2025-05-12 00:59:59,655 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 2:
+2025-05-12 00:59:59,655 - INFO -   Traj1 - Mean Velocity: 0.1995 degrees/s
+2025-05-12 00:59:59,655 - INFO -   Traj1 - Velocity Consistency: 0.6128 degrees/s
+2025-05-12 00:59:59,655 - INFO -   Traj2 - Mean Velocity: 0.0377 degrees/s
+2025-05-12 00:59:59,655 - INFO -   Traj2 - Velocity Consistency: 0.7064 degrees/s
+2025-05-12 00:59:59,759 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 2:
+2025-05-12 00:59:59,759 - INFO -   Traj1 - Mean Velocity: 0.0213 degrees/s
+2025-05-12 00:59:59,759 - INFO -   Traj1 - Velocity Consistency: 0.3208 degrees/s
+2025-05-12 00:59:59,760 - INFO -   Traj2 - Mean Velocity: -0.0524 degrees/s
+2025-05-12 00:59:59,760 - INFO -   Traj2 - Velocity Consistency: 0.2720 degrees/s
+2025-05-12 01:00:00,249 - INFO - 
+Processing trial 3/8
+2025-05-12 01:00:00,249 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_3.xlsx
+2025-05-12 01:00:00,348 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 3:
+2025-05-12 01:00:00,348 - INFO -   Traj1 - Mean Velocity: 0.0038 mm/s
+2025-05-12 01:00:00,348 - INFO -   Traj1 - Velocity Consistency: 0.0030 mm/s
+2025-05-12 01:00:00,348 - INFO -   Traj2 - Mean Velocity: 0.0037 mm/s
+2025-05-12 01:00:00,348 - INFO -   Traj2 - Velocity Consistency: 0.0030 mm/s
+2025-05-12 01:00:00,566 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_3.xlsx
+2025-05-12 01:00:00,670 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 3:
+2025-05-12 01:00:00,670 - INFO -   Traj1 - Mean Velocity: -0.3044 degrees/s
+2025-05-12 01:00:00,670 - INFO -   Traj1 - Velocity Consistency: 0.5184 degrees/s
+2025-05-12 01:00:00,670 - INFO -   Traj2 - Mean Velocity: -0.3656 degrees/s
+2025-05-12 01:00:00,670 - INFO -   Traj2 - Velocity Consistency: 0.6617 degrees/s
+2025-05-12 01:00:00,781 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 3:
+2025-05-12 01:00:00,781 - INFO -   Traj1 - Mean Velocity: 0.0410 degrees/s
+2025-05-12 01:00:00,782 - INFO -   Traj1 - Velocity Consistency: 0.5766 degrees/s
+2025-05-12 01:00:00,782 - INFO -   Traj2 - Mean Velocity: -0.1638 degrees/s
+2025-05-12 01:00:00,782 - INFO -   Traj2 - Velocity Consistency: 0.6513 degrees/s
+2025-05-12 01:00:00,896 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 3:
+2025-05-12 01:00:00,897 - INFO -   Traj1 - Mean Velocity: -0.0119 degrees/s
+2025-05-12 01:00:00,897 - INFO -   Traj1 - Velocity Consistency: 0.5119 degrees/s
+2025-05-12 01:00:00,897 - INFO -   Traj2 - Mean Velocity: -0.1089 degrees/s
+2025-05-12 01:00:00,897 - INFO -   Traj2 - Velocity Consistency: 0.5014 degrees/s
+2025-05-12 01:00:01,335 - INFO - 
+Processing trial 4/8
+2025-05-12 01:00:01,335 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_4.xlsx
+2025-05-12 01:00:01,438 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 4:
+2025-05-12 01:00:01,438 - INFO -   Traj1 - Mean Velocity: 0.0042 mm/s
+2025-05-12 01:00:01,438 - INFO -   Traj1 - Velocity Consistency: 0.0028 mm/s
+2025-05-12 01:00:01,438 - INFO -   Traj2 - Mean Velocity: 0.0042 mm/s
+2025-05-12 01:00:01,438 - INFO -   Traj2 - Velocity Consistency: 0.0027 mm/s
+2025-05-12 01:00:01,659 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_4.xlsx
+2025-05-12 01:00:01,761 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 4:
+2025-05-12 01:00:01,761 - INFO -   Traj1 - Mean Velocity: -0.1841 degrees/s
+2025-05-12 01:00:01,761 - INFO -   Traj1 - Velocity Consistency: 0.5960 degrees/s
+2025-05-12 01:00:01,761 - INFO -   Traj2 - Mean Velocity: -0.2607 degrees/s
+2025-05-12 01:00:01,761 - INFO -   Traj2 - Velocity Consistency: 0.7721 degrees/s
+2025-05-12 01:00:01,862 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 4:
+2025-05-12 01:00:01,862 - INFO -   Traj1 - Mean Velocity: 0.1537 degrees/s
+2025-05-12 01:00:01,862 - INFO -   Traj1 - Velocity Consistency: 0.5791 degrees/s
+2025-05-12 01:00:01,862 - INFO -   Traj2 - Mean Velocity: -0.0499 degrees/s
+2025-05-12 01:00:01,862 - INFO -   Traj2 - Velocity Consistency: 0.7284 degrees/s
+2025-05-12 01:00:01,959 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 4:
+2025-05-12 01:00:01,959 - INFO -   Traj1 - Mean Velocity: 0.0181 degrees/s
+2025-05-12 01:00:01,960 - INFO -   Traj1 - Velocity Consistency: 0.4417 degrees/s
+2025-05-12 01:00:01,960 - INFO -   Traj2 - Mean Velocity: -0.0758 degrees/s
+2025-05-12 01:00:01,960 - INFO -   Traj2 - Velocity Consistency: 0.4369 degrees/s
+2025-05-12 01:00:02,428 - INFO - 
+Processing trial 5/8
+2025-05-12 01:00:02,428 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_5.xlsx
+2025-05-12 01:00:02,530 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 5:
+2025-05-12 01:00:02,530 - INFO -   Traj1 - Mean Velocity: 0.0046 mm/s
+2025-05-12 01:00:02,530 - INFO -   Traj1 - Velocity Consistency: 0.0031 mm/s
+2025-05-12 01:00:02,530 - INFO -   Traj2 - Mean Velocity: 0.0046 mm/s
+2025-05-12 01:00:02,531 - INFO -   Traj2 - Velocity Consistency: 0.0031 mm/s
+2025-05-12 01:00:02,755 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_5.xlsx
+2025-05-12 01:00:02,883 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 5:
+2025-05-12 01:00:02,883 - INFO -   Traj1 - Mean Velocity: -0.3778 degrees/s
+2025-05-12 01:00:02,883 - INFO -   Traj1 - Velocity Consistency: 0.6065 degrees/s
+2025-05-12 01:00:02,883 - INFO -   Traj2 - Mean Velocity: -0.4869 degrees/s
+2025-05-12 01:00:02,883 - INFO -   Traj2 - Velocity Consistency: 0.8995 degrees/s
+2025-05-12 01:00:02,988 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 5:
+2025-05-12 01:00:02,988 - INFO -   Traj1 - Mean Velocity: 0.0059 degrees/s
+2025-05-12 01:00:02,990 - INFO -   Traj1 - Velocity Consistency: 0.5972 degrees/s
+2025-05-12 01:00:02,990 - INFO -   Traj2 - Mean Velocity: -0.2521 degrees/s
+2025-05-12 01:00:02,990 - INFO -   Traj2 - Velocity Consistency: 0.8339 degrees/s
+2025-05-12 01:00:03,087 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 5:
+2025-05-12 01:00:03,087 - INFO -   Traj1 - Mean Velocity: 0.0181 degrees/s
+2025-05-12 01:00:03,088 - INFO -   Traj1 - Velocity Consistency: 0.7119 degrees/s
+2025-05-12 01:00:03,088 - INFO -   Traj2 - Mean Velocity: -0.1071 degrees/s
+2025-05-12 01:00:03,088 - INFO -   Traj2 - Velocity Consistency: 0.8405 degrees/s
+2025-05-12 01:00:03,543 - INFO - 
+Processing trial 6/8
+2025-05-12 01:00:03,543 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_6.xlsx
+2025-05-12 01:00:03,648 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 6:
+2025-05-12 01:00:03,649 - INFO -   Traj1 - Mean Velocity: 0.0057 mm/s
+2025-05-12 01:00:03,649 - INFO -   Traj1 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 01:00:03,649 - INFO -   Traj2 - Mean Velocity: 0.0057 mm/s
+2025-05-12 01:00:03,649 - INFO -   Traj2 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 01:00:03,874 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_6.xlsx
+2025-05-12 01:00:03,976 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 6:
+2025-05-12 01:00:03,976 - INFO -   Traj1 - Mean Velocity: -0.2688 degrees/s
+2025-05-12 01:00:03,977 - INFO -   Traj1 - Velocity Consistency: 0.7620 degrees/s
+2025-05-12 01:00:03,977 - INFO -   Traj2 - Mean Velocity: -0.3535 degrees/s
+2025-05-12 01:00:03,977 - INFO -   Traj2 - Velocity Consistency: 1.0803 degrees/s
+2025-05-12 01:00:04,079 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 6:
+2025-05-12 01:00:04,080 - INFO -   Traj1 - Mean Velocity: 0.0928 degrees/s
+2025-05-12 01:00:04,080 - INFO -   Traj1 - Velocity Consistency: 0.8423 degrees/s
+2025-05-12 01:00:04,080 - INFO -   Traj2 - Mean Velocity: -0.1202 degrees/s
+2025-05-12 01:00:04,080 - INFO -   Traj2 - Velocity Consistency: 1.0789 degrees/s
+2025-05-12 01:00:04,171 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 6:
+2025-05-12 01:00:04,171 - INFO -   Traj1 - Mean Velocity: 0.0068 degrees/s
+2025-05-12 01:00:04,172 - INFO -   Traj1 - Velocity Consistency: 0.9537 degrees/s
+2025-05-12 01:00:04,172 - INFO -   Traj2 - Mean Velocity: -0.1411 degrees/s
+2025-05-12 01:00:04,172 - INFO -   Traj2 - Velocity Consistency: 1.2313 degrees/s
+2025-05-12 01:00:04,622 - INFO - 
+Processing trial 7/8
+2025-05-12 01:00:04,622 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_7.xlsx
+2025-05-12 01:00:04,721 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 7:
+2025-05-12 01:00:04,721 - INFO -   Traj1 - Mean Velocity: 0.0053 mm/s
+2025-05-12 01:00:04,721 - INFO -   Traj1 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 01:00:04,721 - INFO -   Traj2 - Mean Velocity: 0.0053 mm/s
+2025-05-12 01:00:04,721 - INFO -   Traj2 - Velocity Consistency: 0.0039 mm/s
+2025-05-12 01:00:04,963 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_7.xlsx
+2025-05-12 01:00:05,073 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 7:
+2025-05-12 01:00:05,073 - INFO -   Traj1 - Mean Velocity: -0.3921 degrees/s
+2025-05-12 01:00:05,073 - INFO -   Traj1 - Velocity Consistency: 0.6355 degrees/s
+2025-05-12 01:00:05,073 - INFO -   Traj2 - Mean Velocity: -0.5274 degrees/s
+2025-05-12 01:00:05,073 - INFO -   Traj2 - Velocity Consistency: 0.9694 degrees/s
+2025-05-12 01:00:05,171 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 7:
+2025-05-12 01:00:05,171 - INFO -   Traj1 - Mean Velocity: 0.0674 degrees/s
+2025-05-12 01:00:05,171 - INFO -   Traj1 - Velocity Consistency: 0.7891 degrees/s
+2025-05-12 01:00:05,171 - INFO -   Traj2 - Mean Velocity: -0.2299 degrees/s
+2025-05-12 01:00:05,171 - INFO -   Traj2 - Velocity Consistency: 0.9846 degrees/s
+2025-05-12 01:00:05,271 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 7:
+2025-05-12 01:00:05,272 - INFO -   Traj1 - Mean Velocity: 0.0091 degrees/s
+2025-05-12 01:00:05,272 - INFO -   Traj1 - Velocity Consistency: 1.0777 degrees/s
+2025-05-12 01:00:05,272 - INFO -   Traj2 - Mean Velocity: -0.1443 degrees/s
+2025-05-12 01:00:05,272 - INFO -   Traj2 - Velocity Consistency: 1.4615 degrees/s
+2025-05-12 01:00:05,737 - INFO - 
+Processing trial 8/8
+2025-05-12 01:00:05,737 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ee_error_8.xlsx
+2025-05-12 01:00:05,848 - INFO - 
+End-Effector Velocity Statistics for sara - Trial 8:
+2025-05-12 01:00:05,849 - INFO -   Traj1 - Mean Velocity: 0.0060 mm/s
+2025-05-12 01:00:05,849 - INFO -   Traj1 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 01:00:05,849 - INFO -   Traj2 - Mean Velocity: 0.0059 mm/s
+2025-05-12 01:00:05,849 - INFO -   Traj2 - Velocity Consistency: 0.0043 mm/s
+2025-05-12 01:00:06,080 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/sara/results/ang_error_8.xlsx
+2025-05-12 01:00:06,196 - INFO - 
+Joint1 Velocity Statistics for sara - Trial 8:
+2025-05-12 01:00:06,196 - INFO -   Traj1 - Mean Velocity: -0.3078 degrees/s
+2025-05-12 01:00:06,196 - INFO -   Traj1 - Velocity Consistency: 0.8565 degrees/s
+2025-05-12 01:00:06,196 - INFO -   Traj2 - Mean Velocity: -0.4423 degrees/s
+2025-05-12 01:00:06,196 - INFO -   Traj2 - Velocity Consistency: 1.1338 degrees/s
+2025-05-12 01:00:06,294 - INFO - 
+Joint2 Velocity Statistics for sara - Trial 8:
+2025-05-12 01:00:06,294 - INFO -   Traj1 - Mean Velocity: 0.1667 degrees/s
+2025-05-12 01:00:06,294 - INFO -   Traj1 - Velocity Consistency: 0.9980 degrees/s
+2025-05-12 01:00:06,294 - INFO -   Traj2 - Mean Velocity: -0.1352 degrees/s
+2025-05-12 01:00:06,294 - INFO -   Traj2 - Velocity Consistency: 1.2943 degrees/s
+2025-05-12 01:00:06,390 - INFO - 
+Joint3 Velocity Statistics for sara - Trial 8:
+2025-05-12 01:00:06,390 - INFO -   Traj1 - Mean Velocity: 0.0272 degrees/s
+2025-05-12 01:00:06,390 - INFO -   Traj1 - Velocity Consistency: 1.3654 degrees/s
+2025-05-12 01:00:06,390 - INFO -   Traj2 - Mean Velocity: -0.1248 degrees/s
+2025-05-12 01:00:06,391 - INFO -   Traj2 - Velocity Consistency: 1.8979 degrees/s
+2025-05-12 01:00:07,089 - INFO - 
+Processing participant 9/9: vitor
+2025-05-12 01:00:07,089 - INFO - 
+Processing trial 1/8
+2025-05-12 01:00:07,089 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_1.xlsx
+2025-05-12 01:00:07,190 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 1:
+2025-05-12 01:00:07,191 - INFO -   Traj1 - Mean Velocity: 0.0045 mm/s
+2025-05-12 01:00:07,191 - INFO -   Traj1 - Velocity Consistency: 0.0034 mm/s
+2025-05-12 01:00:07,191 - INFO -   Traj2 - Mean Velocity: 0.0045 mm/s
+2025-05-12 01:00:07,191 - INFO -   Traj2 - Velocity Consistency: 0.0033 mm/s
+2025-05-12 01:00:07,428 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_1.xlsx
+2025-05-12 01:00:07,527 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 1:
+2025-05-12 01:00:07,528 - INFO -   Traj1 - Mean Velocity: -0.2142 degrees/s
+2025-05-12 01:00:07,528 - INFO -   Traj1 - Velocity Consistency: 0.5507 degrees/s
+2025-05-12 01:00:07,528 - INFO -   Traj2 - Mean Velocity: -0.3730 degrees/s
+2025-05-12 01:00:07,528 - INFO -   Traj2 - Velocity Consistency: 0.7929 degrees/s
+2025-05-12 01:00:07,630 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 1:
+2025-05-12 01:00:07,631 - INFO -   Traj1 - Mean Velocity: -0.1771 degrees/s
+2025-05-12 01:00:07,631 - INFO -   Traj1 - Velocity Consistency: 0.8586 degrees/s
+2025-05-12 01:00:07,631 - INFO -   Traj2 - Mean Velocity: -0.3530 degrees/s
+2025-05-12 01:00:07,631 - INFO -   Traj2 - Velocity Consistency: 1.0744 degrees/s
+2025-05-12 01:00:07,742 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 1:
+2025-05-12 01:00:07,743 - INFO -   Traj1 - Mean Velocity: 0.0942 degrees/s
+2025-05-12 01:00:07,743 - INFO -   Traj1 - Velocity Consistency: 0.4092 degrees/s
+2025-05-12 01:00:07,743 - INFO -   Traj2 - Mean Velocity: -0.1368 degrees/s
+2025-05-12 01:00:07,743 - INFO -   Traj2 - Velocity Consistency: 0.8468 degrees/s
+2025-05-12 01:00:08,228 - INFO - 
+Processing trial 2/8
+2025-05-12 01:00:08,228 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_2.xlsx
+2025-05-12 01:00:08,331 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 2:
+2025-05-12 01:00:08,332 - INFO -   Traj1 - Mean Velocity: 0.0048 mm/s
+2025-05-12 01:00:08,332 - INFO -   Traj1 - Velocity Consistency: 0.0030 mm/s
+2025-05-12 01:00:08,332 - INFO -   Traj2 - Mean Velocity: 0.0048 mm/s
+2025-05-12 01:00:08,332 - INFO -   Traj2 - Velocity Consistency: 0.0030 mm/s
+2025-05-12 01:00:08,577 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_2.xlsx
+2025-05-12 01:00:08,680 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 2:
+2025-05-12 01:00:08,680 - INFO -   Traj1 - Mean Velocity: -0.1028 degrees/s
+2025-05-12 01:00:08,681 - INFO -   Traj1 - Velocity Consistency: 0.5057 degrees/s
+2025-05-12 01:00:08,681 - INFO -   Traj2 - Mean Velocity: -0.2661 degrees/s
+2025-05-12 01:00:08,681 - INFO -   Traj2 - Velocity Consistency: 0.8276 degrees/s
+2025-05-12 01:00:08,780 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 2:
+2025-05-12 01:00:08,780 - INFO -   Traj1 - Mean Velocity: 0.0678 degrees/s
+2025-05-12 01:00:08,780 - INFO -   Traj1 - Velocity Consistency: 1.0134 degrees/s
+2025-05-12 01:00:08,780 - INFO -   Traj2 - Mean Velocity: -0.1300 degrees/s
+2025-05-12 01:00:08,780 - INFO -   Traj2 - Velocity Consistency: 1.2496 degrees/s
+2025-05-12 01:00:08,873 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 2:
+2025-05-12 01:00:08,873 - INFO -   Traj1 - Mean Velocity: 0.0766 degrees/s
+2025-05-12 01:00:08,873 - INFO -   Traj1 - Velocity Consistency: 0.6923 degrees/s
+2025-05-12 01:00:08,873 - INFO -   Traj2 - Mean Velocity: -0.1527 degrees/s
+2025-05-12 01:00:08,874 - INFO -   Traj2 - Velocity Consistency: 0.5738 degrees/s
+2025-05-12 01:00:09,352 - INFO - 
+Processing trial 3/8
+2025-05-12 01:00:09,352 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_3.xlsx
+2025-05-12 01:00:09,452 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 3:
+2025-05-12 01:00:09,453 - INFO -   Traj1 - Mean Velocity: 0.0047 mm/s
+2025-05-12 01:00:09,453 - INFO -   Traj1 - Velocity Consistency: 0.0028 mm/s
+2025-05-12 01:00:09,453 - INFO -   Traj2 - Mean Velocity: 0.0047 mm/s
+2025-05-12 01:00:09,453 - INFO -   Traj2 - Velocity Consistency: 0.0028 mm/s
+2025-05-12 01:00:09,697 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_3.xlsx
+2025-05-12 01:00:09,808 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 3:
+2025-05-12 01:00:09,809 - INFO -   Traj1 - Mean Velocity: -0.3039 degrees/s
+2025-05-12 01:00:09,809 - INFO -   Traj1 - Velocity Consistency: 0.4796 degrees/s
+2025-05-12 01:00:09,809 - INFO -   Traj2 - Mean Velocity: -0.5702 degrees/s
+2025-05-12 01:00:09,809 - INFO -   Traj2 - Velocity Consistency: 0.7574 degrees/s
+2025-05-12 01:00:09,910 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 3:
+2025-05-12 01:00:09,910 - INFO -   Traj1 - Mean Velocity: -0.1701 degrees/s
+2025-05-12 01:00:09,911 - INFO -   Traj1 - Velocity Consistency: 0.7604 degrees/s
+2025-05-12 01:00:09,911 - INFO -   Traj2 - Mean Velocity: -0.5051 degrees/s
+2025-05-12 01:00:09,911 - INFO -   Traj2 - Velocity Consistency: 1.0596 degrees/s
+2025-05-12 01:00:10,003 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 3:
+2025-05-12 01:00:10,004 - INFO -   Traj1 - Mean Velocity: 0.0493 degrees/s
+2025-05-12 01:00:10,004 - INFO -   Traj1 - Velocity Consistency: 0.3786 degrees/s
+2025-05-12 01:00:10,004 - INFO -   Traj2 - Mean Velocity: -0.2321 degrees/s
+2025-05-12 01:00:10,004 - INFO -   Traj2 - Velocity Consistency: 0.9417 degrees/s
+2025-05-12 01:00:10,488 - INFO - 
+Processing trial 4/8
+2025-05-12 01:00:10,488 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_4.xlsx
+2025-05-12 01:00:10,591 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 4:
+2025-05-12 01:00:10,592 - INFO -   Traj1 - Mean Velocity: 0.0059 mm/s
+2025-05-12 01:00:10,592 - INFO -   Traj1 - Velocity Consistency: 0.0037 mm/s
+2025-05-12 01:00:10,592 - INFO -   Traj2 - Mean Velocity: 0.0058 mm/s
+2025-05-12 01:00:10,592 - INFO -   Traj2 - Velocity Consistency: 0.0037 mm/s
+2025-05-12 01:00:10,840 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_4.xlsx
+2025-05-12 01:00:10,944 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 4:
+2025-05-12 01:00:10,944 - INFO -   Traj1 - Mean Velocity: -0.2157 degrees/s
+2025-05-12 01:00:10,944 - INFO -   Traj1 - Velocity Consistency: 0.5953 degrees/s
+2025-05-12 01:00:10,944 - INFO -   Traj2 - Mean Velocity: -0.5247 degrees/s
+2025-05-12 01:00:10,944 - INFO -   Traj2 - Velocity Consistency: 1.0908 degrees/s
+2025-05-12 01:00:11,035 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 4:
+2025-05-12 01:00:11,036 - INFO -   Traj1 - Mean Velocity: -0.0342 degrees/s
+2025-05-12 01:00:11,036 - INFO -   Traj1 - Velocity Consistency: 1.0790 degrees/s
+2025-05-12 01:00:11,036 - INFO -   Traj2 - Mean Velocity: -0.4485 degrees/s
+2025-05-12 01:00:11,036 - INFO -   Traj2 - Velocity Consistency: 1.5652 degrees/s
+2025-05-12 01:00:11,135 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 4:
+2025-05-12 01:00:11,135 - INFO -   Traj1 - Mean Velocity: 0.0347 degrees/s
+2025-05-12 01:00:11,136 - INFO -   Traj1 - Velocity Consistency: 0.8687 degrees/s
+2025-05-12 01:00:11,136 - INFO -   Traj2 - Mean Velocity: -0.2416 degrees/s
+2025-05-12 01:00:11,136 - INFO -   Traj2 - Velocity Consistency: 1.1402 degrees/s
+2025-05-12 01:00:11,631 - INFO - 
+Processing trial 5/8
+2025-05-12 01:00:11,632 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_5.xlsx
+2025-05-12 01:00:11,733 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 5:
+2025-05-12 01:00:11,733 - INFO -   Traj1 - Mean Velocity: 0.0057 mm/s
+2025-05-12 01:00:11,734 - INFO -   Traj1 - Velocity Consistency: 0.0045 mm/s
+2025-05-12 01:00:11,734 - INFO -   Traj2 - Mean Velocity: 0.0056 mm/s
+2025-05-12 01:00:11,734 - INFO -   Traj2 - Velocity Consistency: 0.0044 mm/s
+2025-05-12 01:00:11,981 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_5.xlsx
+2025-05-12 01:00:12,084 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 5:
+2025-05-12 01:00:12,084 - INFO -   Traj1 - Mean Velocity: -0.4230 degrees/s
+2025-05-12 01:00:12,084 - INFO -   Traj1 - Velocity Consistency: 0.4995 degrees/s
+2025-05-12 01:00:12,084 - INFO -   Traj2 - Mean Velocity: -0.8654 degrees/s
+2025-05-12 01:00:12,084 - INFO -   Traj2 - Velocity Consistency: 1.0904 degrees/s
+2025-05-12 01:00:12,176 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 5:
+2025-05-12 01:00:12,176 - INFO -   Traj1 - Mean Velocity: -0.2093 degrees/s
+2025-05-12 01:00:12,177 - INFO -   Traj1 - Velocity Consistency: 0.9479 degrees/s
+2025-05-12 01:00:12,177 - INFO -   Traj2 - Mean Velocity: -0.7630 degrees/s
+2025-05-12 01:00:12,177 - INFO -   Traj2 - Velocity Consistency: 1.6037 degrees/s
+2025-05-12 01:00:12,267 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 5:
+2025-05-12 01:00:12,267 - INFO -   Traj1 - Mean Velocity: 0.0311 degrees/s
+2025-05-12 01:00:12,268 - INFO -   Traj1 - Velocity Consistency: 1.0501 degrees/s
+2025-05-12 01:00:12,268 - INFO -   Traj2 - Mean Velocity: -0.3266 degrees/s
+2025-05-12 01:00:12,268 - INFO -   Traj2 - Velocity Consistency: 2.2246 degrees/s
+2025-05-12 01:00:12,766 - INFO - 
+Processing trial 6/8
+2025-05-12 01:00:12,767 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_6.xlsx
+2025-05-12 01:00:12,870 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 6:
+2025-05-12 01:00:12,871 - INFO -   Traj1 - Mean Velocity: 0.0071 mm/s
+2025-05-12 01:00:12,871 - INFO -   Traj1 - Velocity Consistency: 0.0056 mm/s
+2025-05-12 01:00:12,871 - INFO -   Traj2 - Mean Velocity: 0.0070 mm/s
+2025-05-12 01:00:12,871 - INFO -   Traj2 - Velocity Consistency: 0.0056 mm/s
+2025-05-12 01:00:13,124 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_6.xlsx
+2025-05-12 01:00:13,227 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 6:
+2025-05-12 01:00:13,227 - INFO -   Traj1 - Mean Velocity: -0.3288 degrees/s
+2025-05-12 01:00:13,227 - INFO -   Traj1 - Velocity Consistency: 0.6393 degrees/s
+2025-05-12 01:00:13,227 - INFO -   Traj2 - Mean Velocity: -0.6640 degrees/s
+2025-05-12 01:00:13,227 - INFO -   Traj2 - Velocity Consistency: 1.1930 degrees/s
+2025-05-12 01:00:13,326 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 6:
+2025-05-12 01:00:13,326 - INFO -   Traj1 - Mean Velocity: -0.0819 degrees/s
+2025-05-12 01:00:13,326 - INFO -   Traj1 - Velocity Consistency: 1.1796 degrees/s
+2025-05-12 01:00:13,326 - INFO -   Traj2 - Mean Velocity: -0.5338 degrees/s
+2025-05-12 01:00:13,326 - INFO -   Traj2 - Velocity Consistency: 1.6645 degrees/s
+2025-05-12 01:00:13,448 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 6:
+2025-05-12 01:00:13,448 - INFO -   Traj1 - Mean Velocity: 0.0357 degrees/s
+2025-05-12 01:00:13,449 - INFO -   Traj1 - Velocity Consistency: 1.4425 degrees/s
+2025-05-12 01:00:13,449 - INFO -   Traj2 - Mean Velocity: -0.1991 degrees/s
+2025-05-12 01:00:13,449 - INFO -   Traj2 - Velocity Consistency: 2.1901 degrees/s
+2025-05-12 01:00:13,967 - INFO - 
+Processing trial 7/8
+2025-05-12 01:00:13,967 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_7.xlsx
+2025-05-12 01:00:14,071 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 7:
+2025-05-12 01:00:14,071 - INFO -   Traj1 - Mean Velocity: 0.0068 mm/s
+2025-05-12 01:00:14,071 - INFO -   Traj1 - Velocity Consistency: 0.0055 mm/s
+2025-05-12 01:00:14,072 - INFO -   Traj2 - Mean Velocity: 0.0067 mm/s
+2025-05-12 01:00:14,072 - INFO -   Traj2 - Velocity Consistency: 0.0055 mm/s
+2025-05-12 01:00:14,323 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_7.xlsx
+2025-05-12 01:00:14,429 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 7:
+2025-05-12 01:00:14,430 - INFO -   Traj1 - Mean Velocity: -0.4597 degrees/s
+2025-05-12 01:00:14,430 - INFO -   Traj1 - Velocity Consistency: 0.5682 degrees/s
+2025-05-12 01:00:14,431 - INFO -   Traj2 - Mean Velocity: -0.8923 degrees/s
+2025-05-12 01:00:14,431 - INFO -   Traj2 - Velocity Consistency: 1.0658 degrees/s
+2025-05-12 01:00:14,530 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 7:
+2025-05-12 01:00:14,531 - INFO -   Traj1 - Mean Velocity: -0.1376 degrees/s
+2025-05-12 01:00:14,531 - INFO -   Traj1 - Velocity Consistency: 1.0472 degrees/s
+2025-05-12 01:00:14,531 - INFO -   Traj2 - Mean Velocity: -0.6857 degrees/s
+2025-05-12 01:00:14,531 - INFO -   Traj2 - Velocity Consistency: 1.5532 degrees/s
+2025-05-12 01:00:14,634 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 7:
+2025-05-12 01:00:14,634 - INFO -   Traj1 - Mean Velocity: 0.0107 degrees/s
+2025-05-12 01:00:14,634 - INFO -   Traj1 - Velocity Consistency: 1.4507 degrees/s
+2025-05-12 01:00:14,634 - INFO -   Traj2 - Mean Velocity: -0.2740 degrees/s
+2025-05-12 01:00:14,634 - INFO -   Traj2 - Velocity Consistency: 2.2365 degrees/s
+2025-05-12 01:00:15,189 - INFO - 
+Processing trial 8/8
+2025-05-12 01:00:15,189 - INFO - Processing ee file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ee_error_8.xlsx
+2025-05-12 01:00:15,301 - INFO - 
+End-Effector Velocity Statistics for vitor - Trial 8:
+2025-05-12 01:00:15,301 - INFO -   Traj1 - Mean Velocity: 0.0077 mm/s
+2025-05-12 01:00:15,301 - INFO -   Traj1 - Velocity Consistency: 0.0059 mm/s
+2025-05-12 01:00:15,302 - INFO -   Traj2 - Mean Velocity: 0.0076 mm/s
+2025-05-12 01:00:15,302 - INFO -   Traj2 - Velocity Consistency: 0.0058 mm/s
+2025-05-12 01:00:15,556 - INFO - Processing ang file: /home/luisc/ws_manipulator/src/manipulator_skill_acquisition/resources/dados_excel/vitor/results/ang_error_8.xlsx
+2025-05-12 01:00:15,661 - INFO - 
+Joint1 Velocity Statistics for vitor - Trial 8:
+2025-05-12 01:00:15,661 - INFO -   Traj1 - Mean Velocity: -0.3782 degrees/s
+2025-05-12 01:00:15,661 - INFO -   Traj1 - Velocity Consistency: 0.6396 degrees/s
+2025-05-12 01:00:15,661 - INFO -   Traj2 - Mean Velocity: -0.7657 degrees/s
+2025-05-12 01:00:15,661 - INFO -   Traj2 - Velocity Consistency: 1.2753 degrees/s
+2025-05-12 01:00:15,757 - INFO - 
+Joint2 Velocity Statistics for vitor - Trial 8:
+2025-05-12 01:00:15,757 - INFO -   Traj1 - Mean Velocity: -0.0810 degrees/s
+2025-05-12 01:00:15,757 - INFO -   Traj1 - Velocity Consistency: 1.1104 degrees/s
+2025-05-12 01:00:15,758 - INFO -   Traj2 - Mean Velocity: -0.6143 degrees/s
+2025-05-12 01:00:15,758 - INFO -   Traj2 - Velocity Consistency: 1.7179 degrees/s
+2025-05-12 01:00:15,854 - INFO - 
+Joint3 Velocity Statistics for vitor - Trial 8:
+2025-05-12 01:00:15,854 - INFO -   Traj1 - Mean Velocity: -0.0000 degrees/s
+2025-05-12 01:00:15,854 - INFO -   Traj1 - Velocity Consistency: 1.5910 degrees/s
+2025-05-12 01:00:15,854 - INFO -   Traj2 - Mean Velocity: -0.2597 degrees/s
+2025-05-12 01:00:15,854 - INFO -   Traj2 - Velocity Consistency: 2.2405 degrees/s
+2025-05-12 01:00:16,631 - INFO - 
+Generating summary visualizations...
+2025-05-12 01:00:16,632 - INFO - Summary visualizations generated successfully.
+2025-05-12 01:00:16,634 - INFO - 
+==================================================
+2025-05-12 01:00:16,634 - INFO - Analysis complete. Visualizations have been saved to the 'visualizations_velocity_profiles' directory
+2025-05-12 01:00:16,634 - INFO - ==================================================
