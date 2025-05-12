@@ -1,37 +1,26 @@
-# Visualizations
+## Velocity Profile Analysis
 
-<img src="visualizations/ang_angle_error_box_swarm.png" width="700" alt="Angle Error Box Swarm">
-*Distribution of angle errors across all joints*
+### analyze_correlation_velocity_profile.py
+This script analyzes the velocity profiles of both end-effector and joint movements, comparing two trajectories (Traj1 and Traj2) for each participant and trial. It generates:
 
-<img src="visualizations/ang_angle_error_cumulative.png" width="700" alt="Angle Error Cumulative">
-*Cumulative angle error progression over time*
+1. End-effector velocity profiles:
+   - Shows velocity magnitude over time for both trajectories
+   - Calculates mean velocity and velocity consistency
+   - Visualizes velocity patterns in mm/s
 
-<img src="visualizations/ang_joint_JointJoint1_error_heatmap.png" width="700" alt="Joint 1 Error Heatmap">
-*Joint 1 error patterns across trials and participants*
+2. Joint velocity profiles:
+   - Displays velocity profiles for all three joints
+   - Shows how joint velocities change over time
+   - Visualizes velocity patterns in degrees/s
 
-<img src="visualizations/ang_joint_JointJoint1_error_progression.png" width="700" alt="Joint 1 Error Progression">
-*Joint 1 error changes across trials*
+3. Joint correlation analysis:
+   - Calculates correlations between joint velocities
+   - Shows how joints are coordinated in each trajectory
+   - Visualizes correlation patterns using heatmaps
 
-<img src="visualizations/ang_joint_JointJoint2_error_heatmap.png" width="700" alt="Joint 2 Error Heatmap">
-*Joint 2 error patterns across trials and participants*
+The script processes data for all participants and trials, generating visualizations and statistics that help understand:
+- How velocity profiles differ between trajectories
+- How joint movements are coordinated
+- How these patterns vary across participants and trials
 
-<img src="visualizations/ang_joint_JointJoint2_error_progression.png" width="700" alt="Joint 2 Error Progression">
-*Joint 2 error changes across trials*
-
-<img src="visualizations/ang_joint_JointJoint3_error_heatmap.png" width="700" alt="Joint 3 Error Heatmap">
-*Joint 3 error patterns across trials and participants*
-
-<img src="visualizations/ang_joint_JointJoint3_error_progression.png" width="700" alt="Joint 3 Error Progression">
-*Joint 3 error changes across trials*
-
-<img src="visualizations/ang_angle_error_summary.png" width="700" alt="Angle Error Summary">
-*Overall angle error summary for all joints*
-
-<img src="visualizations/ee_position_error_heatmap.png" width="700" alt="Position Error Heatmap">
-*End-effector position error patterns across trials*
-
-<img src="visualizations/ee_position_error_relationship.png" width="700" alt="Position Error Relationship">
-*Relationship between different position error metrics*
-
-<img src="visualizations/ee_position_error_summary.png" width="700" alt="Position Error Summary">
-*Overall position error summary* 
+All visualizations are saved in the `visualizations_joint_correlations_velocity_profiles` directory, with detailed statistics logged for further analysis. 
