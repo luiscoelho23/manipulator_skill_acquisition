@@ -7,6 +7,7 @@ import os
 import matplotlib.pyplot as plt
 from pathlib import Path
 import pkg_resources
+from ament_index_python import get_package_share_directory
 
 # Get workspace path from current file
 current_file = os.path.abspath(__file__)
@@ -36,12 +37,12 @@ Usage:
     python dmp_generator.py <config_file> <reference_file> <output_file>
 
 Arguments:
-    config_file     : Path to the DMP configuration YAML file
+    config_file     : Full path to the DMP configuration YAML file
     reference_file  : Path to the reference trajectory CSV file
     output_file     : Path where the generated DMP will be saved
 
 Example:
-    python dmp_generator.py config/discrete_dmp_regression.yaml data/trajectory.csv output/dmp.mpx
+    python dmp_generator.py /path/to/config/discrete.yaml data/trajectory.csv output/dmp.mpx
 
 The script will:
 1. Load the DMP configuration from the YAML file
